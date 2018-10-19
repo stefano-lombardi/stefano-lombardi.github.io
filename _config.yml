@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Stefano Lombardi"
-  avatar           : "profile.png"
+  avatar           : "img.jpg" #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Uppsala University, IFAU-Uppsala"
   employer         :
