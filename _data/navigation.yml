@@ -8,13 +8,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching_md/    
+    url: /teaching/    
 
   - title: "Job market paper"
     url: /job-market-paper/   
-
-  #- title: "Teaching"
-  #  url: /teaching/  
     
   #- title: "Portfolio"
   #  url: /portfolio/
