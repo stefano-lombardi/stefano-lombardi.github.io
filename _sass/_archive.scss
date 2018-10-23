@@ -91,14 +91,20 @@
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
+    // added: justify all lists "manually added" (e.g. work in progress)
+    text-align: justify;
   }
 
   @include breakpoint($large) {
     padding-right: $right-sidebar-width;
+    // added: justify all lists "manually added" (e.g. work in progress)
+    text-align: justify;
   }
 
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
+    // added: justify all lists "manually added" (e.g. work in progress)
+    text-align: justify;
   }
 
   .page__meta {
