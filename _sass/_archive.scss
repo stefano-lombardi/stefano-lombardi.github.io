@@ -48,6 +48,9 @@
 /* remove border*/
 .page__content {
 
+    // added: justify (for other non-"publication" types, e.g. simple lists)
+    text-align: justify;
+
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -60,7 +63,7 @@
 
   & + p {
     text-indent: 0;
-    // added: justify
+    // added: justify (for "publication" types)
     text-align: justify;
   }
 }
@@ -113,8 +116,6 @@
 
 .grid__item {
   margin-bottom: 2em;    
-  // added: justify all lists "manually added" (e.g. work in progress)
-  text-align: justify;
 
   .page__meta {
     margin: 0 0 4px;
