@@ -19,7 +19,7 @@
 .page {
   @include breakpoint($large) {
   // changed 10 to 9 to increase main page width
-    @include span(8 of 12 last);
+    @include span(9 of 12 last);
     // removed padding left and right
     //@include prefix(0.5 of 12);
     //@include suffix(2 of 12);
