@@ -17,9 +17,11 @@ author_profile: true
 
 
 <br><br>  <!-- addiitonal empty line (HTML) -->
+<br><br>  <!-- addiitonal empty line (HTML) -->
+
 
 
 Work in progress 
 =================
 
-Bla bla bla
+Bla bla bla AND MORE BLA
