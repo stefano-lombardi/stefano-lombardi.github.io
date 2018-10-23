@@ -38,7 +38,7 @@ Moreover, we compare different ways to select the number of mass points approxim
 We also explore the specification of the baseline hazard and other implementation issues routinely encountered by reserchers when estimating ToE models.
 
 
-## Comparing models for sequence data: Prediction and dissimilarities
+## Comparing sequence data models: Prediction and dissimilarities
 
 Joint work with Raffaella Piccarreta and Marco Bonetti
 
