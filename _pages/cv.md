@@ -16,7 +16,7 @@ redirect_from:
 * BSc, Economics, Bocconi University, 2011
 * BSc, Psychology, San Raffaele University, 2008
 
-Here you can download my __<span style="color:blue"> [CV](https://www.dropbox.com/s/wpc69iooo8bwwjd/CV_Lombardi.pdf?dl=0/) </span>__
+Here you can download my __<span style="text-decoration:underline; color:blue"> [CV](https://www.dropbox.com/s/wpc69iooo8bwwjd/CV_Lombardi.pdf?dl=0/) </span>__
 
 
 
