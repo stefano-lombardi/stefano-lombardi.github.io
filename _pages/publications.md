@@ -28,7 +28,7 @@ Joint work with Gerard J. van den Berg and Johan Vikström
 
 The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
 It provides a flexible competing risks setting where treatment and outcome hazard rates are jointly modelled
-while allowing for their joint dependence through unobserved heterogeneity.
+while allowing them to depend through correlated unobserved heterogeneity.
 This paper adopts an Empirical Monte Carlo simulation approach to evaluate specification issues related to the estimation of ToE models.
 We use Swedish unemployment spells and a rich set of background characteristics to simulate placebo treatment durations. 
 Then we omit some of these characteristics when fitting ToE models, hence generating unobserved heterogeneity correlated across treatment and unemployment durations and based on real data. 
