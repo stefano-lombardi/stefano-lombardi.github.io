@@ -5,7 +5,7 @@ type: "PhD course, teaching assistant"
 <!-- permalink: /teaching/2014-spring-teaching-1
  -->
 venue: "Uppsala University, Economics Department"
-date: 2015
+date: 01/01/2015
 location: ""
 ---
 
