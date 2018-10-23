@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Stefano Lombardi"
   avatar           : "img.jpg" #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Uppsala University"
+  bio              : #"PhD candidate"
+  location         : "Uppsala University, Dpt. Economics"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stefano-lombardi"
+  github           : #"stefano-lombardi"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"1662648"  # user nr. on Stack Overflow
   steam            :
   tumblr           :
   twitter          : 
@@ -141,6 +141,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - "- Backup -.rar"
 keep_files:
   - .git
   - .svn
@@ -177,10 +178,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -192,11 +193,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -213,6 +214,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _job_market_paper
+  - scope:
+      path: ""
+      type: _job_market_paper
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -220,7 +230,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: yes
+      comments: true
+  # _work_in_progress
+  - scope:
+      path: ""
+      type: _work_in_progress
+    values:
+      layout: single
+      author_profile: true
+      share: no
       comments: true
   # _portfolio
   - scope:
@@ -228,17 +247,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
