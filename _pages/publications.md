@@ -26,7 +26,8 @@ Work in progress
 
 Joint work with Gerard J. van den Berg and Johan Vikström
 
-<div style="text-align: justify"> The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
+<div style="text-align: justify"> 
+The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
 It provides a flexible competing risks setting where treatment and outcome hazard rates are jointly modelled
 while allowing them to depend through correlated unobserved heterogeneity.
 This paper adopts an Empirical Monte Carlo simulation approach to evaluate specification issues related to the estimation of ToE models.
@@ -41,6 +42,7 @@ We also explore the specification of the baseline hazard and other implementatio
 
 Joint work with Raffaella Piccarreta and Marco Bonetti
 
+<div style="text-align: justify"> 
 In this project we consider the case where information is available on different states experienced over time by a set of subjects, 
 and we are interested in studying the resulting trajectories as a whole rather than the occurrence of specific events. 
 Such situation commonly occurs in a variety of settings in social and biomedical studies. 
@@ -48,6 +50,7 @@ Model‐based approaches, such as multistate models or Hidden Markov models, are
 The different assumptions underlying alternative models typically make the comparison of their predictive performance difficult. 
 In this work we introduce a novel way to accomplish this task, based on microsimulation‐based predictions. 
 By using simulaed data, we propose alternative criteria to evaluate a given model and/or to compare competing models with respect to their ability to generate trajectories similar to the observed ones. 
+</div>
 
 
 
