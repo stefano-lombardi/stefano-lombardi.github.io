@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "main page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About me
-======
 
 I am a PhD candidate in economics at Uppsala University and researcher at the Institute for Evaluation of Labor Market and Education Policy (IFAU) in Uppsala, Sweden. 
 I am also affiliated with the Uppsala Center for Labor Studies at Uppsala University.
