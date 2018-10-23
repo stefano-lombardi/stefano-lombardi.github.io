@@ -38,3 +38,19 @@ Moreover, we compare different ways to select the number of mass points approxim
 We also explore the specification of the baseline hazard and other implementation issues routinely encountered by reserchers when estimating ToE models.
 
 
+## Comparing models for sequence data: Prediction and dissimilarities
+
+Joint work with Raffaella Piccarreta and Marco Bonetti
+
+In this project we consider the case where information is available on different states experienced over time by a set of subjects, 
+and we are interested in studying the resulting trajectories as a whole rather than the occurrence of specific events. 
+Such situation commonly occurs in a variety of settings in social and biomedical studies. 
+Model‐based approaches, such as multistate models or Hidden Markov models, are being increasingly used to analyze trajectories and to study their relationship with explanatory variables. 
+The different assumptions underlying alternative models typically make the comparison of their predictive performance difficult. 
+In this work we introduce a novel way to accomplish this task, based on microsimulation‐based predictions. 
+By using simulaed data, we propose alternative criteria to evaluate a given model and/or to compare competing models with respect to their ability to generate trajectories similar to the observed ones. 
+
+
+
+
+
