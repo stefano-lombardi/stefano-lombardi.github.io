@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio and CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+* PhD, Economics, Uppsala University, Spring 2019 (expected) 
+Fields: applied labour economics, dynamic treatment evaluation
+* MSc, Economics, Bocconi University, 2013
+* BSc, Economics, Bocconi University, 2011
+* BSc, Psychology, San Raffaele University, 2008
+
+Here you can download my [CV](https://www.dropbox.com/s/wpc69iooo8bwwjd/CV_Lombardi.pdf?dl=0/)
+
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
