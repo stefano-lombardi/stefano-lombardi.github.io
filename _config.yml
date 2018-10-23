@@ -82,7 +82,7 @@ author:
   name             : "Stefano Lombardi"
   avatar           : "img.jpg" #"profile.png"
   bio              : #"PhD candidate"
-  location         : "Uppsala University"
+  location         : "Uppsala University, Dpt. Economics"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -102,7 +102,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "1662648"  # user nr. on Stack Overflow
+  stackoverflow    : #"1662648"  # user nr. on Stack Overflow
   steam            :
   tumblr           :
   twitter          : 
