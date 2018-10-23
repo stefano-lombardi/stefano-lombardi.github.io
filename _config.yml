@@ -141,6 +141,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - "- Backup -.rar"
 keep_files:
   - .git
   - .svn
@@ -192,11 +193,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -208,6 +209,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _job_market_paper
+  - scope:
+      path: ""
+      type: _job_market_paper
     values:
       layout: single
       author_profile: true
@@ -228,17 +238,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
