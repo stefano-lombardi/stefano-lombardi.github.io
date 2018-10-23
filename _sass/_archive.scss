@@ -60,7 +60,7 @@
 
   & + p {
     text-indent: 0;
-    // vinz
+    // added: justify
     text-align: justify;
   }
 }
@@ -103,6 +103,8 @@
 
   .page__meta {
     margin: 0 0 4px;
+    // added: justify all lists "manually added" (e.g. work in progress)
+    text-align: justify;
   }
 }
 
