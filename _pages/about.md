@@ -10,7 +10,7 @@ redirect_from:
 
 Hello. I am an economist with research interests in applied labour economics and dynamic treatment evaluation. 
 
-I am a PhD candidate in economics at Uppsala University, where I expect to graduate in spring 2019. 
+I am a PhD candidate in economics at Uppsala University, where I expect to graduate in Spring 2019. 
 I am also affiliated with the Institute for Evaluation of Labor Market and Education Policy (IFAU) in Uppsala, Sweden, 
 and to the Uppsala Center for Labor Studies.
 
