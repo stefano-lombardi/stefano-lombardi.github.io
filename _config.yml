@@ -214,6 +214,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _teaching_md
+  - scope:
+      path: ""
+      type: _teaching_md
+    values:
+      layout: single
+      author_profile: true
+      share: yes
+      comments: true
   # _job_market_paper
   - scope:
       path: ""
