@@ -18,8 +18,8 @@ BUT have link on their title that leads to separate page (that can contain addit
 -->
 
 During my studies I took an internationally recognized Academic Teacher Training Course.
-+ Organizer: Division for Quality Enhancement, Academic Teaching and Learning
-+ Extent: 5 weeks
++ Organizer: Uppsala University -- Division for Quality Enhancement, Academic Teaching and Learning
++ Duration: 5 weeks
 + Course description: download course information <span style="text-decoration:underline; color:blue"> [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1) </span> 
 
 In the past I have been responsible for teaching PhD-level exercise sessions.
