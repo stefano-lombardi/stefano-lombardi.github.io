@@ -12,26 +12,24 @@ author_profile: true
 {% endfor %} -->
 
 
-2016
-=====
+## 2016
 
-## Econometrics II
-
-Bla
-
-## Econometrics I
+# Econometrics II
 
 Bla
 
-
-
-2015
-=====
-
-## Econometrics II
+# Econometrics I
 
 Bla
 
-## Econometrics I
+
+
+## 2015
+
+# Econometrics II
+
+Bla
+
+# Econometrics I
 
 Bla
