@@ -14,11 +14,11 @@ author_profile: true
 
 ## 2016
 
-# Econometrics II
+### Econometrics II
 
 Bla
 
-# Econometrics I
+### Econometrics I
 
 Bla
 
@@ -26,10 +26,10 @@ Bla
 
 ## 2015
 
-# Econometrics II
+### Econometrics II
 
 Bla
 
-# Econometrics I
+### Econometrics I
 
 Bla
