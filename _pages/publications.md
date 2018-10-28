@@ -31,11 +31,12 @@ This paper studies how targeted wage subsidies affect the performance of the rec
 Work in progress 
 =================
 
-## Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models
+
+## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) 
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
-Joint work with Gerard J. van den Berg and Johan Vikström -- [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0)
+Joint work with Gerard J. van den Berg and Johan Vikström
 
 <div style="text-align: justify"> 
 The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
@@ -49,11 +50,12 @@ First, we examine the ToE performance under different types of unobserved hetero
 Moreover, we compare different ways to select the number of mass points approximating the unobserved heterogeneity distribution. 
 We also explore the specification of the baseline hazard and other implementation issues routinely encountered by researchers when estimating ToE models.</div>
 
-## Comparing sequence data models: Prediction and dissimilarities
+
+## [Comparing sequence data models: Prediction and dissimilarities](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113)
 
 <!-- Joint work with Raffaella Piccarreta and Marco Bonetti -- <span style="text-decoration:underline; color:blue"> [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113) </span> -->
 
-Joint work with Raffaella Piccarreta and Marco Bonetti -- [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113)
+Joint work with Raffaella Piccarreta and Marco Bonetti
 
 <div style="text-align: justify"> 
 In this project we consider the case where information is available on different states experienced over time by a set of subjects, 
