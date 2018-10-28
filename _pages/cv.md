@@ -18,4 +18,4 @@ redirect_from:
 
 Here you can download my <span style="text-decoration:underline; color:blue"> [CV](https://www.dropbox.com/s/wpc69iooo8bwwjd/CV_Lombardi.pdf?dl=0/) </span>
 
-My contacts 
+<!-- My contacts are: ... -->

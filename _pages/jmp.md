@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /jmp/
 title: "Job market paper"
 excerpt: ""
 author_profile: true
@@ -8,10 +8,6 @@ redirect_from:
   - "/jmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+[job market paper](https://www.dropbox.com/s/nw18ktj8nbcdznv/lombardi_jmp.pdf?dl=0)
 
-Heading 1
-======
 
-Heading 2
-======
