@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-Publications 
-=============
-
 ## [Targeted wage subsidies and firm performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
 Joint work with Oskar Nordström Skans and Johan Vikström
@@ -28,9 +25,6 @@ This paper studies how targeted wage subsidies affect the performance of the rec
 {% endfor %} -->
 
 <!-- <br><br>  ADDITIONAL SPACE -->
-
-
-
 
 
 
