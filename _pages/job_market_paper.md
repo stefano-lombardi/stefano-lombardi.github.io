@@ -1,11 +1,11 @@
 ---
-permalink: /jmp/
+permalink: /job_market_paper/
 title: "Job market paper"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - "/jmp/"
-  - "/jmp.html/"
+  - "/job_market_paper/"
+  - "/job_market_paper.html/"
 ---
 
 Here you can download my job market paper:
