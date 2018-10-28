@@ -17,8 +17,6 @@ BUT have link on their title that leads to separate page (that can contain addit
 {% endfor %} 
 -->
 
-[Download job market paper](https://www.dropbox.com/s/nw18ktj8nbcdznv/lombardi_jmp.pdf?dl=0)
-
 During my studies I took an internationally recognized Academic Teacher Training Course.
 + Organizer: Uppsala University -- Division for Quality Enhancement, Academic Teaching and Learning
 + Duration: 5 weeks
