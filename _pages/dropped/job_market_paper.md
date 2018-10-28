@@ -11,6 +11,8 @@ redirect_from:
 
 [Download job market paper](https://www.dropbox.com/s/nw18ktj8nbcdznv/lombardi_jmp.pdf?dl=0).
 
+Second try
+
 The paper provides the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. 
 Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for i) UI claimants and ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. 
 Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. I find no significant responses for women. 
