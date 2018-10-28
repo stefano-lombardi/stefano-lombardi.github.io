@@ -5,7 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+
+Publications 
+=============
+
+## [Targeted wage subsidies and firm performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
+
+Joint work with Oskar Nordström Skans and Johan Vikström
+
+_Labour Economics_, 2018
+
+This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers.
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,10 +25,13 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+<!-- <br><br>  ADDITIONAL SPACE -->
 
 
-<br><br>  <!-- addiitonal empty line (HTML) -->
+
+
 
 
 Work in progress 
@@ -24,7 +39,9 @@ Work in progress
 
 ## Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models
 
-Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
+<!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
+ -->
+Joint work with Gerard J. van den Berg and Johan Vikström -- [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0)
 
 <div style="text-align: justify"> 
 The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
@@ -40,7 +57,9 @@ We also explore the specification of the baseline hazard and other implementatio
 
 ## Comparing sequence data models: Prediction and dissimilarities
 
-Joint work with Raffaella Piccarreta and Marco Bonetti -- <span style="text-decoration:underline; color:blue"> [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113) </span>
+<!-- Joint work with Raffaella Piccarreta and Marco Bonetti -- <span style="text-decoration:underline; color:blue"> [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113) </span> -->
+
+Joint work with Raffaella Piccarreta and Marco Bonetti -- [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113)
 
 <div style="text-align: justify"> 
 In this project we consider the case where information is available on different states experienced over time by a set of subjects, 

@@ -20,34 +20,18 @@ BUT have link on their title that leads to separate page (that can contain addit
 During my studies I took an internationally recognized Academic Teacher Training Course.
 + Organizer: Uppsala University -- Division for Quality Enhancement, Academic Teaching and Learning
 + Duration: 5 weeks
-+ Course description: download course information <span style="text-decoration:underline; color:blue"> [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1) </span> 
++ Download course information [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1)
 
 In the past I have been responsible for teaching PhD-level exercise sessions.
-My responsibilities included preparing problem sets (both theoretical and in programming), solve them in class, and correct and grade them.
+My responsibilities included preparing problem sets (both theoretical and in programming), solving them in class, and correcting and grading them.
 
 
-## 2016
+## Econometrics I
 
-
-### Econometrics II
-
-PhD course, teaching assistant, _Uppsala University, Economics Department_, Spring term
-
-
-### Econometrics I
-
-PhD course, teaching assistant, _Uppsala University, Economics Department_, Fall term
+PhD course, teaching assistant, _Uppsala University, Economics Department_, 2015--2016
 
 
 
+## Econometrics II
 
-## 2015
-
-### Econometrics II
-
-PhD course, teaching assistant, _Uppsala University, Economics Department_, Spring term
-
-
-### Econometrics I
-
-PhD course, teaching assistant, _Uppsala University, Economics Department_, Fall term
+PhD course, teaching assistant, _Uppsala University, Economics Department_, 2015--2016
