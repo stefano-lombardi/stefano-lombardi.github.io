@@ -214,15 +214,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # # _job_market_paper
-  # - scope:
-  #     path: ""
-  #     type: _job_market_paper
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
   # _publications
   - scope:
       path: ""
