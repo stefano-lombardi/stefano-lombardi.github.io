@@ -24,7 +24,7 @@ Work in progress
 
 ## Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models
 
-Joint work with Gerard J. van den Berg and Johan Vikström
+Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
 
 <div style="text-align: justify"> 
 The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
@@ -40,7 +40,7 @@ We also explore the specification of the baseline hazard and other implementatio
 
 ## Comparing sequence data models: Prediction and dissimilarities
 
-Joint work with Raffaella Piccarreta and Marco Bonetti
+Joint work with Raffaella Piccarreta and Marco Bonetti -- <span style="text-decoration:underline; color:blue"> [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113) </span>
 
 <div style="text-align: justify"> 
 In this project we consider the case where information is available on different states experienced over time by a set of subjects, 
