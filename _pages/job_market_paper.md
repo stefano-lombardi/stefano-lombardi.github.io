@@ -4,8 +4,8 @@ title: "Job market paper"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /jmp/
-  - /jmp.html
+  - /job_market/
+  - /jm_paper.html
 ---
 
 Here you can download my job market paper:
