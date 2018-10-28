@@ -214,10 +214,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # jmp
+  # _job_market_paper
   - scope:
       path: ""
-      type: jmp
+      type: _job_market_paper
     values:
       layout: single
       author_profile: true
