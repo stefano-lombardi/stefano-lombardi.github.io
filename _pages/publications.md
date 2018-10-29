@@ -33,8 +33,9 @@ This paper studies how targeted wage subsidies affect the performance of the rec
 Working papers 
 ===============
 
+## Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models
 
-## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) 
+<!-- ## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0)  -->
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
