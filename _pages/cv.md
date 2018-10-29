@@ -17,7 +17,7 @@ redirect_from:
 <!-- Here you can download my <span style="text-decoration:underline; color:blue"> [CV](https://www.dropbox.com/s/yyx3p5k8wppu7fg/CV_Lombardi.pdf?dl=0) </span>  -->
 
 
-Here you can download my [CV](https://www.dropbox.com/s/yyx3p5k8wppu7fg/CV_Lombardi.pdf?dl=0)
+Here you can download my [CV](/files/CV_Lombardi.pdf?dl=0)
 
 <!-- My contacts are: ... -->
 

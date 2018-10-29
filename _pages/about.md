@@ -19,7 +19,6 @@ I am a PhD candidate in economics at Uppsala University, Sweden, and at the Inst
 I am also affiliated to the Uppsala Center for Labor Studies.
 I expect to graduate in Spring 2019.
 
-<!-- Here you can download my [job market paper](https://www.dropbox.com/s/nw18ktj8nbcdznv/lombardi_jmp.pdf?dl=0). -->
 Here you can download my [job market paper](/files/lombardi_jmp.pdf?dl=0).
 
 
