@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## [Targeted wage subsidies and firm performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
+## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
 Joint work with Oskar Nordström Skans and Johan Vikström
 
