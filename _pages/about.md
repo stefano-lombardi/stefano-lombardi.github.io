@@ -19,6 +19,7 @@ I am a PhD candidate in economics at Uppsala University, Sweden, and at the Inst
 I am also affiliated to the Uppsala Center for Labor Studies.
 I expect to graduate in Spring 2019.
 
+I will be available for interviews during the 2018 EEA meeting in Naples and the 2019 AEA meetings in Atlanta.
 Here you can download my [job market paper](/files/lombardi_jmp.pdf?dl=0).
 
 
