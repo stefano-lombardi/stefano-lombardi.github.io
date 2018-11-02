@@ -19,7 +19,7 @@ redirect_from:
 
 Here you can download my [CV](/files/CV_Lombardi.pdf?dl=0)
 
-<!-- My contacts are: ... -->
+<!-- My contacts are: ... --> 
 
 
 
