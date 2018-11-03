@@ -7,7 +7,7 @@ redirect_from:
   - /jmp/
 ---
 
-## [Threat Effects of Monitoring and UI Benefit Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
+## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
 The paper provides the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. 
 Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for i) UI claimants and ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. 
