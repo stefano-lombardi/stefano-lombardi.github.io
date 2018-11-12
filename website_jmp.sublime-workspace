@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"make\tVariable"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_pages/job_market_paper.md",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages"
+	],
+	"file_history":
+	[
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/exponential_ll_mp_anneal.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/exponential_ll_mp.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_master_Table2.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/f_exponential_mp.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_export_results_MSE.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Hist MP and bias__/01 - fixed axes-labels/02_mass_points_hist - SEND JOHAN/10k/mass_points_hist.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_master_Table1.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_master_Table3.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_RUN.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/f_import_csv.m",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/f_progress_bar.m",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/job_market_paper.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/publications.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/cv.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/about.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_config.yml",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_data/navigation.yml",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/teaching.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/markdown.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/markdown_generator/publications.ipynb",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/job-market-paper/jmp.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/job-market-paper/job_market_paper.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/job-market-paper.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/job_market_paper/job_market_paper.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/jmp.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching/2015-spring-teaching-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/.git/MERGE_MSG",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_work_in_progress/2018-08-01-wage-subsidies-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/- Backup -.rar",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/teaching_orig.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching_orig/2015-spring-teaching-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching_orig/2015-spring-teaching-2.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/teaching_0.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_sass/_page.scss",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_sass/_archive.scss",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/teaching.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching/2016-spring-teaching-3.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching/2016-spring-teaching-4.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching/2015-spring-teaching-2.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_includes/archive-single-cv.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_teaching/2014-spring-teaching-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_publications/2018-08-01-wage-subsidies-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_layouts/single.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_includes/archive-single.html",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_publications/2015-10-01-paper-title-number-3.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_publications/2010-10-01-paper-title-number-2.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages/non-menu-page.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_job market paper/2010-10-01-paper-title-number-2.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_job market paper/2015-10-01-paper-title-number-3.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_job market paper/2009-10-01-paper-title-number-1.md",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/- Backup -/_data/navigation.yml",
+		"/C/Users/stelo424/Desktop/20060796_data.zip",
+		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- job market paper -/__materials__/Swedish UI reform (RKD)/RKD - references.txt",
+		"/C/Users/stelo424/Desktop/Frischnonparam.hlp",
+		"/C/Users/stelo424/Dropbox/___ CODES, NOTES and ASSIGMENTS ___/_Stata_/_dates_/date from numeric variable/prova.do",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/StataEditor/Readme.mdown",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/StataEditor/Default (Windows).sublime-keymap",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/User/StataEditor.sublime-settings",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/StataEditor/StataEditor.sublime-settings",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/stelo424/Dropbox/___ CODES, NOTES and ASSIGMENTS ___/_Stata_/_dates_/date from numeric variable/date from numeric.do",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/Stata Enhanced/Default (Windows).sublime-keymap",
+		"/C/Users/stelo424/AppData/Roaming/Sublime Text 3/Packages/Stata Enhanced/Stata Enhanced (Windows).sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"het_est_mat",
+			"het_est",
+			"_teaching",
+			"files",
+			"/files",
+			"<meta name=\"description\"",
+			"then it must be this!!!",
+			"Bla and more bla",
+			"Here you can download my job market paper:",
+			"cv",
+			"job_market",
+			"job-market",
+			"jmp",
+			"job_market",
+			"html",
+			"_jmp",
+			"job-market-paper",
+			"job",
+			"job-market",
+			"job-m",
+			"Bio and CV",
+			"job_market",
+			"img.jpg",
+			"img.pgn",
+			"simulated",
+			"Division for Quality Enhancement, Academic Teaching and Learning",
+			"teaching_md",
+			"teachin",
+			"/cv",
+			"Bio and CV",
+			"sideba",
+			"bar",
+			"github",
+			"permalink",
+			"page__content",
+			"work in pro",
+			"indent",
+			"//",
+			"pages",
+			"75",
+			"archive",
+			"archiv",
+			"element.",
+			"width",
+			"//",
+			"vinz",
+			"teaching experience",
+			"teaching",
+			"treaching",
+			"_job_market_paper",
+			"dropbox",
+			"teachin",
+			"teaching",
+			"cv",
+			"resume",
+			"redume",
+			"CV",
+			"cv",
+			"about me",
+			"Blog post",
+			"blog pos",
+			"Talks",
+			"gihtu",
+			"toggle_comment",
+			"this is the front page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_pages/job_market_paper.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website_jmp.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
