@@ -34,14 +34,12 @@ Working papers
 ===============
 
 
-## Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models
-
-<!-- ## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/empirical_mc_ToE.pdf?dl=0)  -->
+## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/empirical_mc_ToE.pdf?dl=0)
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
  
-Joint work with Gerard J. van den Berg and Johan Vikström
+Joint work with Johan Vikström and Gerard J. van den Berg
 
 <div style="text-align: justify"> 
 The Timing-of-Events (ToE) model is a standard approach in dynamic treatment evaluation.
@@ -52,7 +50,7 @@ This generates unobserved heterogeneity correlated across the treatment ad outco
 When estimating ToE models, we use a discrete support point distribution for the unobserved heterogeneity, and we compare different specifications of the model. 
 We find that the model performs well, in particular when time-varying covariates in the form of calendar-time variation are exploited for identification. 
 For the discrete support distribution of the unobserved heterogeneity, we find that both too many mass points and too few mass points lead to large bias. 
-We also find that information criteria that penalize parameter abundance are a very useful way to select the number of support points. Information criteria characterized by little penalty should be instead avoided.
+We also find that information criteria that penalize parameter abundance are a very useful way to select the number of support points.
 </div>
 
 <!--
