@@ -12,10 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "_pages/job_market_paper.md",
+			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 1715,
+				"buffer_size": 626,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -33,6 +33,14 @@
 		"selected_items":
 		[
 			[
+				"pack",
+				"View Package File"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
 				"Package Control: ",
 				"Package Control: Install Package"
 			]
@@ -41,7 +49,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 157.0,
 		"history":
 		[
 		]
@@ -58,10 +66,13 @@
 	"expanded_folders":
 	[
 		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io",
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_layouts",
 		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_pages"
 	],
 	"file_history":
 	[
+		"/C/Users/stelo424/Documents/Git/stefano-lombardi.github.io/_includes/analytics.html",
+		"/C/Users/stelo424/Desktop/_u2.raw",
 		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/exponential_ll_mp_anneal.m",
 		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/exponential_ll_mp.m",
 		"/C/Users/stelo424/Box Sync/UPPSALA/_THESIS_/- ToE -/___new___/__Matlab__/m-anneal - Nov2018/ToE_master_Table2.m",
@@ -230,24 +241,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_pages/job_market_paper.md",
-					"semi_transient": true,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1715,
+						"buffer_size": 626,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								222,
-								250
+								504,
+								504
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

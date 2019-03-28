@@ -10,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Job market paper"
-    url: /job-market-paper/   
+  #- title: "Job market paper"
+  #  url: /job-market-paper/   
     
   #- title: "Portfolio"
   #  url: /portfolio/
