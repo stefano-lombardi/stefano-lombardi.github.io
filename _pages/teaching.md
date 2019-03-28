@@ -17,10 +17,12 @@ BUT have link on their title that leads to separate page (that can contain addit
 {% endfor %} 
 -->
 
-During my studies I took an internationally recognized Academic Teacher Training Course.
-+ Organizer: Uppsala University -- Division for Quality Enhancement, Academic Teaching and Learning
+During my PhD studies I took an internationally recognized academic teacher training course offered by Uppsala University.
+Download course information [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1).
+
+<!-- + Organizer: Uppsala University -- Division for Quality Enhancement, Academic Teaching and Learning
 + Duration: 5 weeks
-+ Download course information [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1)
++ Download course information [here](https://mp.uu.se/documents/432512/1088563/Course+information+Academic+Teacher+Training+Course-+ny+vt18.pdf/cb9bec63-bc17-b1a4-c17d-cc0ab9b26ca1) -->
 
 In the past I have been responsible for teaching PhD-level exercise sessions.
 My responsibilities included preparing problem sets (both theoretical and in programming), solving them in class, and correcting and grading them.
