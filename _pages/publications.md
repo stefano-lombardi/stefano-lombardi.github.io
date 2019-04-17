@@ -12,7 +12,7 @@ Joint work with Oskar Nordström Skans and Johan Vikström
 
 _Labour Economics_, 2018, 53, pp. 33-45
 
-This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish matched employer-employee administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers.
+This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish matched employer-employee administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers. 
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
