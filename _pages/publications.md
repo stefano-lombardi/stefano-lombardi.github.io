@@ -10,7 +10,7 @@ author_profile: true
 
 Joint work with Oskar Nordström Skans and Johan Vikström
 
-_Labour Economics_, 2018
+_Labour Economics_, 2018, 53, pp. 33-45
 
 This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish matched employer-employee administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers.
 
@@ -54,7 +54,7 @@ The fact that most of the effects of the reforms arise through the threat compon
 Joint work with Johan Vikström and Gerard J. van den Berg
 
 <div style="text-align: justify"> 
-This paper uses an Empirical Monte Carlo simulation design to study the estimation of the Timing-of-Events (ToE) model, one of the leading approaches in dynamic treatment evaluation. 
+This paper uses an Empirical Monte Carlo simulation design to study the specfification of the Timing-of-Events (ToE) model, one of the leading approaches in dynamic treatment evaluation. 
 We exploit rich Swedish data on unemployed individuals with information on participation in a training program to simulate placebo treatment durations. 
 We then estimate ToE models by omitting some of the covariates previously used to simulate the placebo treatments. 
 This generates unobserved heterogeneity correlated across the treatment ad outcome durations. 
