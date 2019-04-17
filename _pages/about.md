@@ -12,11 +12,11 @@ redirect_from:
 
 
 I am an economist with research interests in Labour economics, applied econometrics, and econometrics theory. 
-
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation and microsimulation techniques. 
 
-I am a PhD candidate in economics at Uppsala University, Sweden, and at the Institute for Evaluation of Labor Market and Education Policy (IFAU, Uppsala). 
-I am also affiliated to the Uppsala Center for Labor Studies.
+I am a PhD candidate at Uppsala University, Sweden, and at the Institute for Evaluation of Labor Market and Education Policy (IFAU). 
+I am also affiliated to the Institute of Labor Economics (IZA) and to the Uppsala Center for Labor Studies (UCLS).
+
 I expect to graduate in Summer 2019.
 
 <!-- I will be available for interviews during the 2018 EEA meeting in Naples and the 2019 AEA meetings in Atlanta. 
