@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Stefano Lombardi"
-excerpt: "About me"
+title: "About me"
+excerpt: "Stefano Lombardi"
 author_profile: true
 redirect_from: 
   - /about/
