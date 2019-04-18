@@ -36,4 +36,4 @@ PhD course, teaching assistant, _Uppsala University, Economics Department_; Fall
 
 ## Econometrics II
 
-PhD course, teaching assistant, _Uppsala University, Economics Department_; Fall 2015 and Fall 2016.
+PhD course, teaching assistant, _Uppsala University, Economics Department_; Spring 2015 and Spring 2016.
