@@ -30,10 +30,10 @@ In 2016 I took an internationally recognized [academic teacher training course](
 
 ## Econometrics I
 
-PhD course, teaching assistant, _Uppsala University, Economics Department_; Fall 2015 and Fall 2016.
+PhD course, teaching assistant, _Uppsala University, Economics Department_; Fall 2015 and 2016.
 
 
 
 ## Econometrics II
 
-PhD course, teaching assistant, _Uppsala University, Economics Department_; Spring 2015 and Spring 2016.
+PhD course, teaching assistant, _Uppsala University, Economics Department_; Spring 2015 and 2016.
