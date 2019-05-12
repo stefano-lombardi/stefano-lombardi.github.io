@@ -36,13 +36,8 @@ Working papers
 
 ## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
-The paper provides the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. 
-Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. 
-Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. I find no significant responses for women. 
-In contrast to this analysis, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. 
-I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. 
-I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. 
-The fact that most of the effects of the reforms arise through the threat component and not through the sanction-imposition effects implies that the total impact of monitoring and sanctions may be severely underestimated when focusing solely on the effects on those actually receiving sanctions.
+The paper provides the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects
+as is typically done in the literature.
 
 
 
@@ -54,14 +49,7 @@ The fact that most of the effects of the reforms arise through the threat compon
 Joint work with Gerard J. van den Berg and Johan Vikström
 
 <div style="text-align: justify"> 
-This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models.
-We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate placebo treatment durations.
-We first use these simulations to examine which covariates are major confounding variables to be included in selection models.
-We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics,
-regional and inflow timing information, is able to remove selection bias. Next, we omit sets of covariates and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. In many cases the ToE approach provides accurate effect estimates,
-especially if calendar-time variation is taken into account.
-However, assuming too many or too few support points for unobserved heterogeneity may lead to large biases.
-Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points.
+This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. In many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points.
 </div>
 
 <!-- 
@@ -86,11 +74,18 @@ We also find that information criteria that penalize parameter abundance are a v
 Joint work with Raffaella Piccarreta and Marco Bonetti
 
 <div style="text-align: justify"> 
+We propose different methods for comparing the ability of competing non-nested event history models to generate trajectories that are similar to the observed ones. We first introduce alternative distance-based criteria to compare pairwise dissimilarities between observed and simulated sequences. Next, we estimate two alternative semi-Markov multi-state models using data on family formation and childbearing decisions from the Dutch Fertility and Family Survey. We use the estimated models to simulate event histories and to
+illustrate the proposed comparison criteria.
+</div>
+
+<!-- 
+<div style="text-align: justify"> 
 We consider the case where individuals are observed transitioning across different states over time, and we are interested in studying the resulting trajectories as a whole rather than the occurrence of specific events. 
-This framework applies to a variety of settings in social and biomedical studies. 
-Model‐based approaches, such as multi-state models or Hidden Markov models, are being increasingly used to analyze trajectories, but the different assumptions underlying alternative models typically make the comparison of their predictive performance difficult. 
+This framework applies to a variety of event history analysis settings, both in social sciences and biomedical studies. 
+Multi-state models are a popular approach to analyze trajectories, but the different assumptions underlying alternative models typically make the comparison of their predictive performance difficult. 
 In this work we introduce a novel way to accomplish this task based on microsimulation‐based predictions. 
 We use simulated data and propose alternative criteria to evaluate a given model and/or to compare competing models with respect to their ability to generate trajectories similar to the observed ones. 
 </div>
+-->
 
 
