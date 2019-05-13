@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* PhD, Economics, Uppsala University, Spring 2019 (expected) 
+* PhD, Economics, Uppsala University, Summer 2019 (expected) 
 * MSc, Economics, Bocconi University, 2013
 * BSc, Economics, Bocconi University, 2010
 * BSc, Psychology, San Raffaele University, 2007
