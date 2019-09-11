@@ -14,10 +14,10 @@ redirect_from:
 I am an economist with research interests in Labour economics and applied econometrics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation and microsimulation techniques. 
 
-I am a PhD candidate at Uppsala University, Sweden, and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy). 
+I obtained my PhD in Economics from Uppsala University, Sweden, and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy). 
 I am also affiliated to [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies).
 
-I will graduate in Summer 2019 and start a 3-year post-doc at the VATT Institute of Economic Research (Helsinki, Finland) in October 2019.
+I will start a 3-year post-doc at the VATT Institute of Economic Research (Helsinki, Finland) in October 2019.
 
 <!-- I will be available for interviews during the 2018 EEA meeting in Naples and the 2019 AEA meetings in Atlanta. 
 I will be available for interviews during the 2018 EEA meeting in Naples and the 2019 AEA meetings in Atlanta.
