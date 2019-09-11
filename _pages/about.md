@@ -14,8 +14,8 @@ redirect_from:
 I am an economist with research interests in Labour economics and applied econometrics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation and microsimulation techniques. 
 
-I obtained my PhD in Economics from Uppsala University, Sweden, and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy). 
-I am also affiliated to [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies).
+I received my PhD in Economics from Uppsala University, Sweden, and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy) in Autumn 2019.
+I am affiliated to [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies).
 
 I will start a 3-year post-doc at the VATT Institute of Economic Research (Helsinki, Finland) in October 2019.
 
