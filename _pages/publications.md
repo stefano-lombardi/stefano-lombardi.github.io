@@ -66,17 +66,21 @@ We also find that information criteria that penalize parameter abundance are a v
 -->
 
 
-
+<!-- 
 ## [Comparing Sequence Data Models: Prediction and Dissimilarities](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113)
+-->
 
 <!-- Joint work with Raffaella Piccarreta and Marco Bonetti -- <span style="text-decoration:underline; color:blue"> [working paper](http://www.dondena.unibocconi.it/wps/wcm/connect/cdr/centro_dondena/home/working+papers/working+paper+no.+113) </span> -->
 
+<!-- 
 Joint work with Raffaella Piccarreta and Marco Bonetti
 
 <div style="text-align: justify"> 
 We propose different methods for comparing the ability of competing non-nested event history models to generate trajectories that are similar to the observed ones. We first introduce alternative distance-based criteria to compare pairwise dissimilarities between observed and simulated sequences. Next, we estimate two alternative semi-Markov multi-state models using data on family formation and childbearing decisions from the Dutch Fertility and Family Survey. We use the estimated models to simulate event histories and to
 illustrate the proposed comparison criteria.
 </div>
+-->
+
 
 <!-- 
 <div style="text-align: justify"> 
