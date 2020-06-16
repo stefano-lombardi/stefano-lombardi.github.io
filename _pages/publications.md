@@ -64,7 +64,7 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 Work in Progress 
 ===============
 
-<br /><br />
+<p style="height: 100px"></p>
 
 *Job Displacement Across Europe*, 
 with Edoardo Acabbi, 
