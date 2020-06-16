@@ -73,11 +73,11 @@ Cristina Barcelo,
 Antoine Bertheau, 
 and Raffaele Saggio
 
-**_Firm productivity and the Immigrant-Native Wage Gap_**, with Olof Åslund, Cristina Bratu, and Anna Thoresson
+_Firm productivity and the Immigrant-Native Wage Gap_, with Olof Åslund, Cristina Bratu, and Anna Thoresson
 
-**_Does Unemployment Affect Intra-household Decisions?_**, with Jonas Cederlöf and Johan Vikström
+_Does Unemployment Affect Intra-household Decisions?_, with Jonas Cederlöf and Johan Vikström
 
-**_An Atlas of Disease-specific Lifetime Reproductive Success_**, 
+_An Atlas of Disease-specific Lifetime Reproductive Success_, 
 with Tove Fall, 
 Mika Gissler, 
 Aoxing Liu,
@@ -86,7 +86,7 @@ Tuomo Kiiskinen,
 Aki Havulinna, 
 and Andrea Ganna
 
-**_Mortality Inequality in Finland_**, with Kristiina Huttunen
+_Mortality Inequality in Finland_, with Kristiina Huttunen
 
 
 <!-- 
