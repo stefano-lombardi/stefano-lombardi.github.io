@@ -67,7 +67,7 @@ Work in Progress
 
 <p style="height: 20px"></p>
 
-**_Job Displacement Across Europe_**, 
+_Job Displacement Across Europe_, 
 with Edoardo Acabbi, 
 Cristina Barcelo, 
 Antoine Bertheau, 
