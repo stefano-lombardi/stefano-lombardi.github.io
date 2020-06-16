@@ -26,9 +26,9 @@ This paper studies how targeted wage subsidies affect the performance of the rec
 
 
 
-<!-- ADDIITONAL SPACE
+<!-- ADDIITONAL SPACE, roughly 30px -->
  <br><br>  
- -->
+
 
 
 
@@ -56,7 +56,8 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 
 
 
-<!-- ADDIITONAL SPACE -->
+
+<!-- ADDIITONAL SPACE, roughly 30px -->
  <br><br>  
 
 
@@ -64,7 +65,7 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 Work in Progress 
 ===============
 
-<p style="height: 30px"></p>
+<p style="height: 25px"></p>
 
 *Job Displacement Across Europe*, 
 with Edoardo Acabbi, 
