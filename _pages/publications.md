@@ -65,19 +65,19 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 Work in Progress 
 ===============
 
-<p style="height: 25px"></p>
+<p style="height: 20px"></p>
 
-*Job Displacement Across Europe*, 
+**_Job Displacement Across Europe_**, 
 with Edoardo Acabbi, 
 Cristina Barcelo, 
 Antoine Bertheau, 
 and Raffaele Saggio
 
-*Firm productivity and the Immigrant-Native Wage Gap*, with Olof Åslund, Cristina Bratu, and Anna Thoresson
+**_Firm productivity and the Immigrant-Native Wage Gap*, with Olof Åslund, Cristina Bratu_**, and Anna Thoresson
 
-*Does Unemployment Affect Intra-household Decisions?* with Jonas Cederlöf and Johan Vikström
+**_Does Unemployment Affect Intra-household Decisions?_**, with Jonas Cederlöf and Johan Vikström
 
-*An Atlas of Disease-specific Lifetime Reproductive Success*, 
+**_An Atlas of Disease-specific Lifetime Reproductive Success_**, 
 with Tove Fall, 
 Mika Gissler, 
 Aoxing Liu,
@@ -86,7 +86,7 @@ Tuomo Kiiskinen,
 Aki Havulinna, 
 and Andrea Ganna
 
-*Mortality Inequality in Finland*, with Kristiina Huttunen
+**_Mortality Inequality in Finland_**, with Kristiina Huttunen
 
 
 <!-- 
