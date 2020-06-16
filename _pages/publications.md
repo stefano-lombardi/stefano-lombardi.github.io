@@ -67,17 +67,17 @@ Work in Progress
 
 <p style="height: 20px"></p>
 
-_Job Displacement Across Europe_, 
+**Job Displacement Across Europe**, 
 with Edoardo Acabbi, 
 Cristina Barcelo, 
 Antoine Bertheau, 
 and Raffaele Saggio
 
-_Firm productivity and the Immigrant-Native Wage Gap_, with Olof Åslund, Cristina Bratu, and Anna Thoresson
+**Firm productivity and the Immigrant-Native Wage Gap**, with Olof Åslund, Cristina Bratu, and Anna Thoresson
 
-_Does Unemployment Affect Intra-household Decisions?_, with Jonas Cederlöf and Johan Vikström
+**Does Unemployment Affect Intra-household Decisions?**, with Jonas Cederlöf and Johan Vikström
 
-_An Atlas of Disease-specific Lifetime Reproductive Success_, 
+**An Atlas of Disease-specific Lifetime Reproductive Success**, 
 with Tove Fall, 
 Mika Gissler, 
 Aoxing Liu,
@@ -86,7 +86,7 @@ Tuomo Kiiskinen,
 Aki Havulinna, 
 and Andrea Ganna
 
-_Mortality Inequality in Finland_, with Kristiina Huttunen
+**Mortality Inequality in Finland**, with Kristiina Huttunen
 
 
 <!-- 
