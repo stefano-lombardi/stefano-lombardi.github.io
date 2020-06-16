@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
+## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
 Joint work with Oskar Nordström Skans and Johan Vikström
 
@@ -26,7 +26,9 @@ This paper studies how targeted wage subsidies affect the performance of the rec
 
 
 
-<br><br>  <!--  ADDITIONAL SPACE -->
+<!-- ADDIITONAL SPACE
+ <br><br>  
+ -->
 
 
 
@@ -54,8 +56,9 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 
 
 
-
-<br><br>  <!--  ADDITIONAL SPACE -->
+<!-- ADDIITONAL SPACE
+ <br><br>  
+ -->
 
 
 
