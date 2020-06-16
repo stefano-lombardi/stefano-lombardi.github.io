@@ -58,7 +58,7 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 
 <!-- ADDIITONAL SPACE -->
  <br><br>  
- 
+
 
 
 Work in Progress 
@@ -74,7 +74,7 @@ and Raffaele Saggio
 
 *Does Unemployment Affect Intra-household Decisions?* with Jonas Cederlöf and Johan Vikström
 
-*An atlas of disease-specific lifetime reproductive success*, 
+*An Atlas of Disease-specific Lifetime Reproductive Success*, 
 with Tove Fall, 
 Mika Gissler, 
 Aoxing Liu,
