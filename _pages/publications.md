@@ -73,7 +73,7 @@ Cristina Barcelo,
 Antoine Bertheau, 
 and Raffaele Saggio
 
-**_Firm productivity and the Immigrant-Native Wage Gap*, with Olof Åslund, Cristina Bratu_**, and Anna Thoresson
+**_Firm productivity and the Immigrant-Native Wage Gap_**, with Olof Åslund, Cristina Bratu, and Anna Thoresson
 
 **_Does Unemployment Affect Intra-household Decisions?_**, with Jonas Cederlöf and Johan Vikström
 
