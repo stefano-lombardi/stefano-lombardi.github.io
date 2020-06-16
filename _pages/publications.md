@@ -56,10 +56,9 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 
 
 
-<!-- ADDIITONAL SPACE
+<!-- ADDIITONAL SPACE -->
  <br><br>  
- -->
-
+ 
 
 
 Work in Progress 
