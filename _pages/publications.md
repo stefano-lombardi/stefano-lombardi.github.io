@@ -52,6 +52,38 @@ Joint work with Gerard J. van den Berg and Johan Vikström
 This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. In many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points.
 </div>
 
+
+
+
+<br><br>  <!--  ADDITIONAL SPACE -->
+
+
+
+Work in Progress 
+===============
+
+*Job Displacement Across Europe*, 
+with Edoardo Acabbi, 
+Cristina Barcelo, 
+Antoine Bertheau, 
+and Raffaele Saggio
+
+*Firm productivity and the Immigrant-Native Wage Gap*, with Olof Åslund, Cristina Bratu, and Anna Thoresson
+
+*Does Unemployment Affect Intra-household Decisions?* with Jonas Cederlöf and Johan Vikström
+
+*An atlas of disease-specific lifetime reproductive success*, 
+with Tove Fall, 
+Mika Gissler, 
+Aoxing Liu,
+Gianmarco Mignogna, 
+Tuomo Kiiskinen, 
+Aki Havulinna, 
+and Andrea Ganna
+
+*Mortality Inequality in Finland*, with Kristiina Huttunen
+
+
 <!-- 
 <div style="text-align: justify"> 
 This paper uses an Empirical Monte Carlo simulation design to study the specfification of the Timing-of-Events (ToE) model, one of the leading approaches in dynamic treatment evaluation. 

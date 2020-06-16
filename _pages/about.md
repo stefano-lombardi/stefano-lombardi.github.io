@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-I am an economist with research interests in Labour economics and applied econometrics. 
+I am an economist with research interests in Labour and Health economics and applied econometrics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation and microsimulation techniques. 
 
 I received my PhD in Economics from Uppsala University, Sweden, and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy) in Autumn 2019.
