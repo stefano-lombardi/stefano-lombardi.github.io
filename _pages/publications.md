@@ -8,7 +8,7 @@ author_profile: true
 
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
-Joint work with Oskar Nordström Skans and Johan Vikström
+with Oskar Nordström Skans and Johan Vikström
 
 _Labour Economics_, 2018, 53, pp. 33-45
 
@@ -48,7 +48,7 @@ as is typically done in the literature.
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
  
-Joint work with Gerard J. van den Berg and Johan Vikström
+ with Gerard J. van den Berg and Johan Vikström
 
 <div style="text-align: justify"> 
 This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. In many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points.
@@ -67,11 +67,13 @@ Work in Progress
 
 <p style="height: 20px"></p>
 
-**Job Displacement Across Europe**, 
-with Edoardo Acabbi, 
+**The Costs of Job Loss Across Countries**, 
+with Antoine Bertheau, 
+Edoardo Acabbi, 
 Cristina Barcelo, 
-Antoine Bertheau, 
-and Raffaele Saggio
+Andreas Gulyas,
+Raffaele Saggio, 
+and Sabrina Di Addario
 
 **Firm productivity and the Immigrant-Native Wage Gap**, with Olof Åslund, Cristina Bratu, and Anna Thoresson
 
