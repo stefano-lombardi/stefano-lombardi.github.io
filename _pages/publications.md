@@ -103,11 +103,11 @@ Policy reports
 with Kristiina Huttunen,
 _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
-**[Public Employment Service monitoring, benefit sanctions and the job search behavior of the jobseekers (in Swedish)](https://www.ifau.se/sv/Forskning/Publikationer/Rapporter/2019/arbetsformedlingens-kontrollarbete-sanktioner-och-de-arbetslosas-sokbeteende/)**,
+**[Public Employment Service monitoring, benefit sanctions and the job search behavior of the jobseekers](https://www.ifau.se/sv/Forskning/Publikationer/Rapporter/2019/arbetsformedlingens-kontrollarbete-sanktioner-och-de-arbetslosas-sokbeteende/)** (in Swedish),
 with Johan Vikström,
 IFAU policy report 2019:23
 
-**[How do employment support and start-up jobs affect the employing companies? (in Swedish)](https://www.ifau.se/sv/Forskning/Publikationer/Working-papers/2018/wage-subsidies-job-displacement-and-swedish-firms-a-comparison-between-policy-systems/)**,
+**[How do employment support and start-up jobs affect the employing companies?](https://www.ifau.se/sv/Forskning/Publikationer/Working-papers/2018/wage-subsidies-job-displacement-and-swedish-firms-a-comparison-between-policy-systems/)** (in Swedish),
 with Johan Vikström,
 IFAU policy report 2018:13.
 
