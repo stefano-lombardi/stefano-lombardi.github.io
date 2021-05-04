@@ -42,7 +42,6 @@ The paper provides among the first quasi-experimental estimates of the threat of
 as is typically done in the literature.
 
 
-
 ## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/empirical_mc_ToE.pdf?dl=0)
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
@@ -55,6 +54,13 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 </div>
 
 
+## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)**
+
+with Kristiina Huttunen
+
+_Fiscal Studies_, 2021, 42(1), pp. 223-244
+
+We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
 
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
@@ -90,6 +96,8 @@ and Andrea Ganna
 
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
+
+<!-- 
  <br><br>  
 
 
@@ -108,7 +116,7 @@ IFAU policy report 2019:23
 **[How do employment support and start-up jobs affect the employing companies?](https://www.ifau.se/sv/Forskning/Publikationer/Working-papers/2018/wage-subsidies-job-displacement-and-swedish-firms-a-comparison-between-policy-systems/)** (in Swedish),
 with Johan Vikström,
 IFAU policy report 2018:13.
-
+-->
 
 
 
