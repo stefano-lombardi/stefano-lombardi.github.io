@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome!<br><br>  
+Welcome!<br>
 I am an economist with research interests in Labour and Health economics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation methods. <!-- and microsimulation techniques. --> 
 
