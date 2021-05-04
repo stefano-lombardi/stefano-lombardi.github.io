@@ -87,8 +87,6 @@ Tuomo Kiiskinen,
 Aki Havulinna, 
 and Andrea Ganna
 
-**Mortality Inequality in Finland**, with Kristiina Huttunen
-
 
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
