@@ -97,7 +97,7 @@ and Andrea Ganna
 Policy reports 
 =================
 
-**[Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp?dl=0)**,
+**[Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)**,
 with Kristiina Huttunen,
 _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
