@@ -73,7 +73,7 @@ Work in Progress
 
 <p style="height: 20px"></p>
 
-**The Costs of Job Loss Across Countries**, 
+**The Costs of Job Loss Across Europe**, 
 with Antoine Bertheau, 
 Edoardo Acabbi, 
 Cristina Barcelo, 
