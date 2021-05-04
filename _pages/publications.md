@@ -54,7 +54,7 @@ This paper uses an Empirical Monte Carlo simulation approach to study estimation
 </div>
 
 
-## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)**
+## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
 
 with Kristiina Huttunen
 
