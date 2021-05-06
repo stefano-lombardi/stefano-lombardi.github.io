@@ -48,7 +48,7 @@ _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
 <p style="color:black; text-decoration:underline;">
-	[Antoine Bertheau](https://www.antoinebertheau.com/), 
+	[[Antoine Bertheau|https://www.antoinebertheau.com/]], 
 	Edoardo Acabbi, 
 	Cristina Barcelo, 
 	Andreas Gulyas,
