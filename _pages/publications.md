@@ -80,7 +80,7 @@ This paper documents the consequences of job displacement across seven European 
 
 
 
-## Firms, productivity, and the immigrant-native earnings gap<br>
+## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
