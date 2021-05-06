@@ -25,7 +25,10 @@ a:visited {
 
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
-with Oskar Nordström Skans and Johan Vikström
+with 
+<a href="https://sites.google.com/site/oskarskans/home">Oskar Nordström Skans</a>
+and 
+<a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
 
 _Labour Economics_, 2018, 53, pp. 33-45
 
@@ -71,8 +74,6 @@ with
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
 
-
-
 <div style="text-align: justify"> 
 This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
 </div>
@@ -83,10 +84,11 @@ This paper documents the consequences of job displacement across seven European 
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
-Olof Åslund, 
-Cristina Bratu, 
-and Anna Thoresson
-
+<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/">Olof Åslund</a>,
+<a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
+and
+<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
+ 
 <div style="text-align: justify"> 
 This paper studies the role of firm productivity in explaining earnings differences between immigrants and natives in Sweden. We first show that firms with higher value added per worker pay higher earnings and document that immigrant workers are under-represented in high-productive firms relative to natives.  Next, we estimate substantial positive earnings returns to working in more productive firms, with significantly larger returns for immigrants from non-Western countries. We also find that immigrants are less likely to move up the firm productivity distribution. Sorting into less productive firms thus decreases earnings in poor-performing immigrant groups that would gain the most from firm productivity. The results are consistent with firms having differential wage-setting power over immigrants and natives.
 </div>
@@ -95,7 +97,8 @@ This paper studies the role of firm productivity in explaining earnings differen
 
 ## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
 
-with Kristiina Huttunen
+with 
+<a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
 
 _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
@@ -109,11 +112,12 @@ We study inequality in mortality in Finland using registry data that covers the 
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
- 
- with 
- Gerard J. van den Berg 
- and Johan Vikström
 
+with 
+<a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
+and 
+<a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
+  
 <div style="text-align: justify"> 
 This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate realistic placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. We show that in many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. 
 <!--However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points. -->
