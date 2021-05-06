@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-a {
+a:link {
   color: black;
-  font-family: helvetica;
   text-decoration: none;
-  text-transform: uppercase;
   text-decoration: underline;
 }
 a:hover {
