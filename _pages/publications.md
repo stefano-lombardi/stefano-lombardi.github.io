@@ -44,7 +44,7 @@ as is typically done in the literature.
 
 
 ## The Costs of Job Loss Across Europe<br>
-_**[email me](mailto:stefano.lombardi@vatt.fi) for latest version]**_
+_**[email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
 Antoine Bertheau, 
