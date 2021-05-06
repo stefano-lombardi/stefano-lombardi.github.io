@@ -47,13 +47,15 @@ as is typically done in the literature.
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
-<p style="color:black; text-decoration:underline;">
-<a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
+
+<a href="https://www.antoinebertheau.com/">
+	<p style="color:black; text-decoration:underline;">Antoine Bertheau</p>
+</a>,
 Edoardo Acabbi, 
 Cristina Barcelo, 
 Andreas Gulyas,
 and Raffaele Saggio
-</p>
+
 
 
 <div style="text-align: justify"> 
