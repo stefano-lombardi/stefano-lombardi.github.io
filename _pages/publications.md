@@ -3,6 +3,7 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
 
 <!--
 a:link {
@@ -20,8 +21,6 @@ a:visited {
   color: black;
 }
 -->
----
-
 
 
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
