@@ -3,8 +3,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
 
+<!--
 a:link {
   color: black;
   text-decoration: none;
@@ -19,6 +19,9 @@ a:active {
 a:visited {
   color: black;
 }
+-->
+---
+
 
 
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
@@ -62,16 +65,12 @@ as is typically done in the literature.
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
-<!--
-<a href="https://www.antoinebertheau.com/">
-	<p style="color:black; text-decoration:underline;">Antoine Bertheau</p>
-</a>,
--->
 <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
-Edoardo Acabbi, 
-Cristina Barcelo, 
-Andreas Gulyas,
-and Raffaele Saggio
+<a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
+<a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barceló</a>,
+<a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
+and
+<a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
 
 
 
