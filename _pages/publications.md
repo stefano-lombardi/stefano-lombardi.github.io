@@ -47,13 +47,12 @@ as is typically done in the literature.
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
-<p style="color:black; text-decoration:underline;">
-	[[Antoine Bertheau|https://www.antoinebertheau.com/]], 
-	Edoardo Acabbi, 
-	Cristina Barcelo, 
-	Andreas Gulyas,
-	and Raffaele Saggio
-</p>
+<a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
+Edoardo Acabbi, 
+Cristina Barcelo, 
+Andreas Gulyas,
+and Raffaele Saggio
+
 
 <div style="text-align: justify"> 
 This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
