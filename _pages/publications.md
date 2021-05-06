@@ -47,7 +47,6 @@ as is typically done in the literature.
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
-
 <a href="https://www.antoinebertheau.com/">
 	<p style="color:black; text-decoration:underline;">Antoine Bertheau</p>
 </a>,
