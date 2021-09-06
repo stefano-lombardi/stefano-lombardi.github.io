@@ -23,6 +23,39 @@ a:visited {
 -->
 
 
+## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_mortality_NBER_w29203.pdf?dl=0)
+
+with 
+<a href="https://hschwandt.com/">Hannes Schwandt</a>, 
+<a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, and with 
+Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
+
+_Proceedings of the National Academy of Sciences of the United States of America (PNAS)_ (forthcoming) 
+
+<div style="text-align: justify"> 
+Although there is a large gap between Black and White American life expectancies, the gap fell
+48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
+examine age-specific mortality trends and racial gaps in life expectancy in rich and poor U.S.
+areas and with reference to six European countries.
+Inequalities in life expectancy are starker in the U.S. than in Europe. In 1990 White Americans
+and Europeans in rich areas had similar overall life expectancy, while life expectancy for White
+Americans in poor areas was lower. But since then even rich White Americans have lost ground
+relative to Europeans. Meanwhile, the gap in life expectancy between Black Americans and
+Europeans decreased by 8.3%.
+Black life expectancy increased more than White life expectancy in all U.S. areas, but
+improvements in poorer areas had the greatest impact on the racial life expectancy gap. The
+causes that contributed the most to Black mortality reductions included: Cancer, homicide, HIV,
+and causes originating in the fetal or infant period.
+Life expectancy for both Black and White Americans plateaued or slightly declined after 2012,
+but this stalling was most evident among Black Americans even prior to the COVID-19
+pandemic. If improvements had continued at the 1990-2012 rate, the racial gap in life expectancy
+would have closed by 2036. European life expectancy also stalled after 2014. Still, the
+comparison with Europe suggests that mortality rates of both Black and White Americans could
+fall much further across all ages and in both rich and poor areas.
+</div>
+
+
+
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
 with 
@@ -95,16 +128,7 @@ This paper studies the role of firm productivity in explaining earnings differen
 
 
 
-## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
 
-with 
-<a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
-
-_Fiscal Studies_, 2021, 42(1), pp. 223-244
-
-<div style="text-align: justify"> 
-We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
-</div>
 
 
 
@@ -121,6 +145,31 @@ and
 <div style="text-align: justify"> 
 This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate realistic placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. We show that in many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. 
 <!--However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points. -->
+</div>
+
+
+
+
+<!-- ADDIITONAL SPACE, roughly 30px -->
+ <br><br>  
+
+
+
+Policy work
+===============
+
+<p style="height: 20px"></p>
+
+
+## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
+
+with 
+<a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
+
+_Fiscal Studies_, 2021, 42(1), pp. 223-244
+
+<div style="text-align: justify"> 
+We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
 </div>
 
 
