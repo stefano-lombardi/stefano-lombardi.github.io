@@ -27,7 +27,7 @@ a:visited {
 
 with 
 <a href="https://hschwandt.com/">Hannes Schwandt</a>, 
-<a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, and with 
+<a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
 _Proceedings of the National Academy of Sciences of the United States of America (PNAS)_ (forthcoming) 
