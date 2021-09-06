@@ -172,30 +172,16 @@ We study inequality in mortality in Finland using registry data that covers the 
 
 
 
-
-
-<!-- ADDIITONAL SPACE, roughly 30px -->
+ 
+<!-- ADDIITONAL SPACE, roughly 30px 
  <br><br>  
+-->
 
-
-
+<!--
 Work in Progress 
 ===============
 
 <p style="height: 20px"></p>
-
-<!--
-**The Costs of Job Loss Across Europe**, 
-with Antoine Bertheau, 
-Edoardo Acabbi, 
-Cristina Barcelo, 
-Andreas Gulyas,
-and Raffaele Saggio
--->
-
-<!-- 
-**Firm productivity and the Immigrant-Native Wage Gap**, with Olof Åslund, Cristina Bratu, and Anna Thoresson
--->
 
 **Does Unemployment Affect Intra-household Decisions?**, with Jonas Cederlöf and Johan Vikström
 
@@ -207,7 +193,7 @@ Gianmarco Mignogna,
 Tuomo Kiiskinen, 
 Aki Havulinna, 
 and Andrea Ganna
-
+-->
 
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
