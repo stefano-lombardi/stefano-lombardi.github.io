@@ -58,7 +58,7 @@ _Proceedings of the National Academy of Sciences of the United States of America
     read 
     <span class="read-more_label--more">more</span>
     <span class="read-more_label--less">less</span> 
-    <input class="read-more_check" type="checkbox" id="check" />
+    <!-- <input class="read-more_check" type="checkbox" id="check" /> -->
   </label>
 </div>
 
