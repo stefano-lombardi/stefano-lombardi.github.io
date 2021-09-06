@@ -32,26 +32,34 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 
 _Proceedings of the National Academy of Sciences of the United States of America (PNAS)_ (forthcoming) 
 
-<div style="text-align: justify"> 
-Although there is a large gap between Black and White American life expectancies, the gap fell
-48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
-examine age-specific mortality trends and racial gaps in life expectancy in rich and poor U.S.
-areas and with reference to six European countries.
-Inequalities in life expectancy are starker in the U.S. than in Europe. In 1990 White Americans
-and Europeans in rich areas had similar overall life expectancy, while life expectancy for White
-Americans in poor areas was lower. But since then even rich White Americans have lost ground
-relative to Europeans. Meanwhile, the gap in life expectancy between Black Americans and
-Europeans decreased by 8.3%.
-Black life expectancy increased more than White life expectancy in all U.S. areas, but
-improvements in poorer areas had the greatest impact on the racial life expectancy gap. The
-causes that contributed the most to Black mortality reductions included: Cancer, homicide, HIV,
-and causes originating in the fetal or infant period.
-Life expectancy for both Black and White Americans plateaued or slightly declined after 2012,
-but this stalling was most evident among Black Americans even prior to the COVID-19
-pandemic. If improvements had continued at the 1990-2012 rate, the racial gap in life expectancy
-would have closed by 2036. European life expectancy also stalled after 2014. Still, the
-comparison with Europe suggests that mortality rates of both Black and White Americans could
-fall much further across all ages and in both rich and poor areas.
+<div class="read-more" style="text-align: justify"> 
+  <p class="read-more_text-wrapper">
+    Although there is a large gap between Black and White American life expectancies, the gap fell
+    48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
+    examine age-specific mortality trends and racial gaps in life expectancy in rich and poor U.S.
+    areas and with reference to six European countries.
+    Inequalities in life expectancy are starker in the U.S. than in Europe. In 1990 White Americans
+    and Europeans in rich areas had similar overall life expectancy, while life expectancy for White
+    Americans in poor areas was lower. But since then even rich White Americans have lost ground
+    relative to Europeans. Meanwhile, the gap in life expectancy between Black Americans and
+    Europeans decreased by 8.3%.
+    Black life expectancy increased more than White life expectancy in all U.S. areas, but
+    improvements in poorer areas had the greatest impact on the racial life expectancy gap. The
+    causes that contributed the most to Black mortality reductions included: Cancer, homicide, HIV,
+    and causes originating in the fetal or infant period.
+    Life expectancy for both Black and White Americans plateaued or slightly declined after 2012,
+    but this stalling was most evident among Black Americans even prior to the COVID-19
+    pandemic. If improvements had continued at the 1990-2012 rate, the racial gap in life expectancy
+    would have closed by 2036. European life expectancy also stalled after 2014. Still, the
+    comparison with Europe suggests that mortality rates of both Black and White Americans could
+    fall much further across all ages and in both rich and poor areas.
+  </p>
+  <label class="read-more_label" for="check">
+    read 
+    <span class="read-more_label--more">more</span>
+    <span class="read-more_label--less">less</span> 
+    <input class="read-more_check" type="checkbox" id="check" />
+  </label>
 </div>
 
 
