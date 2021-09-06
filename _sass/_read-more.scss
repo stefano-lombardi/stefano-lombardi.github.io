@@ -5,6 +5,12 @@
 	transition: max-height 0.5s ease-out;
 	&.expanded {
 		max-height: 50em;
+    .read-more_label--more {
+      display: none;
+    }
+    .read-more_label--less {
+      display: inline;
+    }
 	}
 	&:not(.expanded) {
 		.read-more_text-wrapper {
@@ -34,12 +40,6 @@
 	cursor: pointer;
 	font-style: italic;
 	color: #52adc8;
-}
-.read-more_label--more {
-	display: none;
-}
-.read-more_label--less {
-	display: inline;
 }
 .read-more_check {
 	visibility: hidden;
