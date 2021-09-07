@@ -9,8 +9,8 @@
   document.querySelectorAll('.read-more')
     .forEach(function ($readMore) {
       $readMore.appendChild(parseHtml(readMoreStr))
-      
-      setTimeout(function () {
+
+      requestAnimationFrame(function () {
         const $readMoreLabel = $readMore.querySelector('.read-more_label')
 
         $readMoreLabel.addEventListener('click', handleClick)
@@ -18,7 +18,7 @@
 
         $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
         $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
-      }, 1)
+      })
     })
 
   function handleClick(e) {
