@@ -14,7 +14,7 @@
       $readMoreLabel.addEventListener('click', handleClick)
       $readMoreLabel.addEventListener('touchend', handleClick)
 
-      $readMore.dataset.expandedHeight = $readMore.clientHeight
+      $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
       $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
     })
 
