@@ -9,16 +9,14 @@
   document.querySelectorAll('.read-more')
     .forEach(function ($readMore) {
       $readMore.appendChild(parseHtml(readMoreStr))
-      
-      setTimeout(function () {
-        const $readMoreLabel = $readMore.querySelector('.read-more_label')
 
-        $readMoreLabel.addEventListener('click', handleClick)
-        $readMoreLabel.addEventListener('touchend', handleClick)
+      const $readMoreLabel = $readMore.querySelector('.read-more_label')
 
-        $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
-        $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
-      }, 1000)
+      $readMoreLabel.addEventListener('click', handleClick)
+      $readMoreLabel.addEventListener('touchend', handleClick)
+
+      $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
+      $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
     })
 
   function handleClick(e) {

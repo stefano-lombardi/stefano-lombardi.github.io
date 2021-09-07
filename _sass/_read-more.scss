@@ -2,6 +2,7 @@
 	display: flex;
 	flex-direction: column;
 	transition: max-height 0.5s ease-out;
+	margin-bottom: 0 !important;
 	&_text-wrapper {
 		position: relative;
 		overflow: hidden;
@@ -21,7 +22,6 @@
 	}
 	&:not(.expanded) {
 		.read-more_text-wrapper {
-			margin-bottom: 0 !important;
 			&::after {
 				content: '';
 				position: absolute;
