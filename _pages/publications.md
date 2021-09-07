@@ -32,7 +32,7 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 
 _Proceedings of the National Academy of Sciences of the United States of America (PNAS)_ (forthcoming) 
 
-<div class="read-more" style="text-align: justify"> 
+<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
     Although there is a large gap between Black and White American life expectancies, the gap fell
     48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
@@ -54,12 +54,6 @@ _Proceedings of the National Academy of Sciences of the United States of America
     comparison with Europe suggests that mortality rates of both Black and White Americans could
     fall much further across all ages and in both rich and poor areas.
   </p>
-  <label class="read-more_label" for="check">
-    read 
-    <span class="read-more_label--more">more</span>
-    <span class="read-more_label--less">less</span> 
-    <input class="read-more_check" type="checkbox" id="check" />
-  </label>
 </div>
 
 
@@ -73,16 +67,10 @@ and
 
 _Labour Economics_, 2018, 53, pp. 33-45
 
-<div class="read-more" style="text-align: justify"> 
+<div class="read-more" data-collapsed-height="0" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
 	This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish matched employer-employee administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers. 
   </p>
-  <label class="read-more_label" for="check">
-    read 
-    <span class="read-more_label--more">more</span>
-    <span class="read-more_label--less">less</span> 
-    <input class="read-more_check" type="checkbox" id="check" />
-  </label>
 </div>
 
 <!-- {% if author.googlescholar %}

@@ -1,5 +1,4 @@
 .read-more {
-	max-height: 10em;
 	display: flex;
 	flex-direction: column;
 	transition: max-height 0.5s ease-out;
@@ -13,7 +12,6 @@
 		color: #52adc8;
 	}
 	&.expanded {
-		max-height: 100em;
     .read-more_label--more {
       display: none;
     }
@@ -23,6 +21,7 @@
 	}
 	&:not(.expanded) {
 		.read-more_text-wrapper {
+			margin-bottom: 0 !important;
 			&::after {
 				content: '';
 				position: absolute;

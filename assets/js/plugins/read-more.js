@@ -13,14 +13,22 @@
 
       $readMoreLabel.addEventListener('click', handleClick)
       $readMoreLabel.addEventListener('touchend', handleClick)
+
+      $readMore.dataset.expandedHeight = $readMore.clientHeight
+      $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
     })
 
   function handleClick(e) {
     const $readMore = e.target.closest('.read-more')
+    const expandedHeight = $readMore.dataset.expandedHeight
+    const collapsedHeight = $readMore.dataset.collapsedHeight
+
     if ($readMore.classList.contains('expanded')) {
       $readMore.classList.remove('expanded')
+      $readMore.style.maxHeight = collapsedHeight
     } else {
       $readMore.classList.add('expanded')
+      $readMore.style.maxHeight = expandedHeight
     }
   }
 
