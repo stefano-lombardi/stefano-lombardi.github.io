@@ -11,13 +11,15 @@
       $readMore.appendChild(parseHtml(readMoreStr))
 
       requestAnimationFrame(function () {
-        const $readMoreLabel = $readMore.querySelector('.read-more_label')
+        requestAnimationFrame(function () {
+          const $readMoreLabel = $readMore.querySelector('.read-more_label')
 
-        $readMoreLabel.addEventListener('click', handleClick)
-        $readMoreLabel.addEventListener('touchend', handleClick)
+          $readMoreLabel.addEventListener('click', handleClick)
+          $readMoreLabel.addEventListener('touchend', handleClick)
 
-        $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
-        $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
+          $readMore.dataset.expandedHeight = $readMore.getBoundingClientRect().height + 'px'
+          $readMore.style.maxHeight = $readMore.dataset.collapsedHeight || '10em'
+        })
       })
     })
 
