@@ -57,6 +57,19 @@ _Proceedings of the National Academy of Sciences of the United States of America
 </div>
 
 
+## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
+
+with 
+<a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
+
+_Fiscal Studies_, 2021, 42(1), pp. 223-244
+
+<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> 
+  <p class="read-more_text-wrapper">
+	We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
+  </p>
+</div>
+
 
 ## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
@@ -162,11 +175,11 @@ and
 
 
 
-<!-- ADDIITONAL SPACE, roughly 30px -->
+<!-- ADDIITONAL SPACE, roughly 30px 
  <br><br>  
+-->
 
-
-
+<!--
 Policy work
 ===============
 
@@ -178,12 +191,12 @@ with
 
 _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
 	We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
   </p>
 </div>
-
+-->
 
  
 <!-- ADDIITONAL SPACE, roughly 30px 
