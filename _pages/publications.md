@@ -118,7 +118,7 @@ Working papers
 
 
 
-## The Costs of Job Loss Across Europe<br>
+## The Unequal Costs of Job Loss Across Countries<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
