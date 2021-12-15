@@ -19,7 +19,7 @@ I received my PhD in Economics from Uppsala University and [IFAU](https://www.if
 I am affiliated to [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies).
 I am external researcher at IFAU.
 
-In 2020 I started a 3-year post-doc at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki).
+I am senior researcher at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki).
 <!-- In October 2019 I started a 3-year post-doc at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki). -->
 
 <!-- I will be available for interviews during the 2018 EEA meeting in Naples and the 2019 AEA meetings in Atlanta. 
