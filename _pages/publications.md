@@ -65,7 +65,7 @@ with
 _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
 <!-- <div class="read-more" data-collapsed-height="6em" style="text-align: justify"> -->
-<div class="read-more" data-collapsed-height="0.01em" style="text-align: justify"> 
+<div class="read-more" data-collapsed-height="1em" style="text-align: justify"> 
 
   <p class="read-more_text-wrapper">
 	We study inequality in mortality in Finland using registry data that covers the whole population for years 1990-2018. We create municipality-level indexes of regional deprivation (poverty rate), and show how age-specifc mortality rates have evolved across regions and over time. The inequality in mortality has been remarkably low over the time period for most age groups. However, among young and prime-age males the mortality rates have been persistently higher in the poorer areas. For these age groups the leading causes of death are deaths of despair (alcohol and suicides) and accidents. For the cohorts that were young during the deep early-1990's recession, we also document higher inequality in middle-age mortality than for cohorts entering the labor market in recovery periods.
