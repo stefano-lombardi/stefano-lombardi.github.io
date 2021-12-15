@@ -23,16 +23,16 @@ a:visited {
 -->
 
 
-## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_mortality_NBER_w29203.pdf?dl=0)
+## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
 
 with 
 <a href="https://hschwandt.com/">Hannes Schwandt</a>, 
 <a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
-_Proceedings of the National Academy of Sciences of the United States of America (PNAS)_ (forthcoming)
+_Proceedings of the National Academy of Sciences of the United States of America (PNAS)_, 2021, 118(40)
 
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> 
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
     Although there is a large gap between Black and White American life expectancies, the gap fell
     48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
@@ -83,7 +83,7 @@ and
 
 _Labour Economics_, 2018, 53, pp. 33-45
 
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
 	This paper studies how targeted wage subsidies affect the performance of the recruiting firms. Using Swedish matched employer-employee administrative data from the period 1998–2008, we show that treated firms substantially outperform other recruiting firms after hiring through subsidies, despite identical pre-treatment performance levels and trends in a wide set of key dimensions. The pattern is less clear from 2007 onwards, after a reform removed the involvement of caseworkers from the subsidy approval process. Overall, our results suggest that targeted employment subsidies can have large positive effects on post-match outcomes of the hiring firms, at least if the policy environment allows for pre-screening by caseworkers. 
   </p>
@@ -113,7 +113,7 @@ Working papers
 
 ## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
 	The paper provides among the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects as is typically done in the literature.
   </p>
@@ -121,7 +121,7 @@ Working papers
 
 
 
-## The Unequal Costs of Job Loss Across Countries<br>
+## The Unequal Cost of Job Loss Across Countries<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 
 with 
@@ -132,30 +132,30 @@ with
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
 
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
 	This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
   </p>
 </div>
 
 
+
+## [Firm productivity and the immigrant-native earnings gap](/files/SWE_AKM_wp.pdf?dl=0)
+<!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
-
+-->
 with 
 <a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/">Olof Åslund</a>,
 <a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
 and
 <a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
  
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
 	This paper studies the role of firm productivity in explaining earnings differences between immigrants and natives in Sweden. We first show that firms with higher value added per worker pay higher earnings and document that immigrant workers are under-represented in high-productive firms relative to natives.  Next, we estimate substantial positive earnings returns to working in more productive firms, with significantly larger returns for immigrants from non-Western countries. We also find that immigrants are less likely to move up the firm productivity distribution. Sorting into less productive firms thus decreases earnings in poor-performing immigrant groups that would gain the most from firm productivity. The results are consistent with firms having differential wage-setting power over immigrants and natives.
   </p>
 </div>
-
-
-
 
 
 
@@ -169,7 +169,7 @@ with
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
   
-<div class="read-more" data-collapsed-height="6em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
 	This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate realistic placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. We show that in many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. 
 	<!--However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points. -->
