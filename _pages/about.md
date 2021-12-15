@@ -11,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Welcome!<br>
+
 I am senior researcher at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki).
 My research interests are in Labour and Health economics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation methods. <!-- and microsimulation techniques. --> 
