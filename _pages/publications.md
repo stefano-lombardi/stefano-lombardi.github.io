@@ -120,11 +120,8 @@ Working papers
 </div>
 
 
-
-## The Unequal Cost of Job Loss Across Countries<br>
-_**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
-
-with 
+## [The Unequal Cost of Job Loss Across Countries](/files/JLS_EUROPE_SUBMISSION?dl=0)
+with
 <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
 <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
 <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
