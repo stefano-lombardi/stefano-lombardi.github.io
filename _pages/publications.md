@@ -120,7 +120,7 @@ Working papers
 </div>
 
 
-## [The Unequal Cost of Job Loss Across Countries](/files/JLS_EUROPE_SUBMISSION?dl=0)
+## [The Unequal Cost of Job Loss Across Countries](/files/JLS_EUROPE_SUBMISSION.pdf?dl=0)
 with
 <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
 <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
