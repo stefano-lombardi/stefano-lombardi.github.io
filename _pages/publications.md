@@ -127,9 +127,7 @@ with
 <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
 <a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
 and
-<a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
-
-Media coverage and popular summaries:  
+<a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> <br> Media coverage and popular summaries:  
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU</a>, 
 <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian), 
 <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish) 
