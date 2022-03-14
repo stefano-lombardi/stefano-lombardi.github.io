@@ -129,6 +129,11 @@ with
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
 
+<br><br>  
+<a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU</a>, 
+<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian), 
+<a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish) 
+
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
   We document the consequences of losing a job across countries using a harmonized research design and high-quality administrative registers. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in between.  Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within-country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
