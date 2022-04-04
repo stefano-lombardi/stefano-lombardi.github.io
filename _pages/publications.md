@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+p.italics {
+  font-style: italic;
+}
+
 <!--
 a:link {
   color: black;
@@ -120,7 +124,7 @@ with
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p font-style: italic> Conditionally accepted, American Economic Review: Insights </p>
+<p class="italics"> Conditionally accepted, American Economic Review: Insights </p>
 
 <p>Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum (in English)</a>, 
