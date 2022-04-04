@@ -147,7 +147,7 @@ _Conditionally accepted, American Economic Review: Insights_
 </div>
 
 
-## [Firm productivity and the immigrant-native earnings gap](/files/SWE_AKM_wp.pdf?dl=0)
+## [Firm productivity and immigrant-native earnings disparity](/files/SWE_AKM_wp.pdf?dl=0)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
