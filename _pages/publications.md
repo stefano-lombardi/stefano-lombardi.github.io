@@ -120,7 +120,7 @@ with
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p>Conditionally accepted, _American Economic Review: Insights_ </p>
+<p>Conditionally accepted, *American Economic Review: Insights* </p>
 
 <p>Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum (in English)</a>, 
