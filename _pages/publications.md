@@ -111,15 +111,6 @@ Working papers
 ===============
 
 
-## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper">
-	The paper provides among the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects as is typically done in the literature.
-  </p>
-</div>
-
-
 ## [The Unequal Cost of Job Loss Across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
 with
 <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
@@ -128,10 +119,14 @@ with
 <a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
 and
 <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
-<p>Media coverage and popular summaries: 
-<a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU</a>, 
-<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian), 
-<a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish) </p>
+
+<p>Conditionally accepted, _American Economic Review: Insights_ </p>
+
+<p>Media coverage: 
+<a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum (in English)</a>, 
+<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> and <a href="https://www.editorialedomani.it/economia/dati/perdere-lavoro-italia-costo-alto-mancano-politiche-attive-v36rjp60">Domani</a> (in Italian),
+<a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish),
+<a href="https://research.pej.pt/2022/03/the-experience-of-losing-a-job-in-different-countries-in-europe/">Portuguese Economy Research Report</a> (in English).</p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
@@ -142,6 +137,14 @@ and
   </p>
 </div>
 
+
+## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+	The paper provides among the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects as is typically done in the literature.
+  </p>
+</div>
 
 
 ## [Firm productivity and the immigrant-native earnings gap](/files/SWE_AKM_wp.pdf?dl=0)
