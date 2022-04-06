@@ -124,9 +124,11 @@ _Conditionally accepted, American Economic Review: Insights_
 
 <p>Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
-<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> and <a href="https://www.editorialedomani.it/economia/dati/perdere-lavoro-italia-costo-alto-mancano-politiche-attive-v36rjp60">Domani</a> (in Italian),
+<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian),
 <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish),
 <a href="https://research.pej.pt/2022/03/the-experience-of-losing-a-job-in-different-countries-in-europe/">Portuguese Economy Research Report</a> (in English).</p>
+
+<!-- <a href="https://www.editorialedomani.it/economia/dati/perdere-lavoro-italia-costo-alto-mancano-politiche-attive-v36rjp60">Domani</a> -->
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
