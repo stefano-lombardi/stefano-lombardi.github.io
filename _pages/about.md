@@ -15,10 +15,11 @@ Welcome!<br>
 I am senior researcher at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki).
 My research interests are in Labour and Health economics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation methods. <!-- and microsimulation techniques. --> 
+I currently hold an early-researcher grant from th Academy of Finland. 
 
-I received my PhD in Economics from Uppsala University and [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy) in Autumn 2019.
+I received my PhD in Economics from Uppsala University in Autumn 2019.
 
-I am affiliated to [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies), and I am external researcher at IFAU.
+I am affiliated to [IFAU](https://www.ifau.se/en/) (Institute for Evaluation of Labor Market and Education Policy), [IZA](https://www.iza.org/people/affiliates/21993/stefano-lombardi) (Institute of Labor Economics) and to [UCLS](https://ucls.nek.uu.se/about-the-center/) (Uppsala Center for Labor Studies).
 
 
 <!-- In October 2019 I started a 3-year post-doc at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki). -->
