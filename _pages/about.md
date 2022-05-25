@@ -13,9 +13,10 @@ redirect_from:
 Welcome!<br>
 
 I am senior researcher at [VATT](https://vatt.fi/en/frontpage) (Institute for Economic Research, Helsinki).
+I currently hold an early-researcher grant from the Academy of Finland. 
+
 My research interests are in Labour and Health economics. 
 I am also interested in how public policies affect firm behaviour and performance, and in dynamic treatment evaluation methods. <!-- and microsimulation techniques. --> 
-I currently hold an early-researcher grant from th Academy of Finland. 
 
 I received my PhD in Economics from Uppsala University in Autumn 2019.
 
