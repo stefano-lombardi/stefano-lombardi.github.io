@@ -34,7 +34,7 @@ and
 
 <b>_American Economic Review: Insights_</b> (accepted)
 
-<p style="margin-top:0.5cm" "margin-bottom:0.5cm">Media coverage: 
+<p style="margin-top:0.5cm; margin-bottom:0.5cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
 <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian),
 <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish),
