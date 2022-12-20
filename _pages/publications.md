@@ -59,7 +59,9 @@ with
 <a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;"><i><b>Proceedings of the National Academy of Sciences of the United States of America (PNAS)</b></i></p>, 2021, 118(40)
+<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+  <i><b>Proceedings of the National Academy of Sciences of the United States of America (PNAS)</b></i>, 2021, 118(40)
+</p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
@@ -91,7 +93,9 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 with 
 <a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;"><i><b>Fiscal Studies</b></i></p>, 2021, 42(1), pp. 223-244
+<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+  <i><b>Fiscal Studies</b></i>, 2021, 42(1), pp. 223-244
+</p>
 
 <!-- <div class="read-more" data-collapsed-height="6em" style="text-align: justify"> -->
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
@@ -110,7 +114,9 @@ with
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;"><i><b>Labour Economics</b></i></p>, 2018, 53, pp. 33-45
+<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+  <i><b>Labour Economics</b></i>, 2018, 53, pp. 33-45
+</p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
