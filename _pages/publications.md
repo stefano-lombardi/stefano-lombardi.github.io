@@ -32,7 +32,7 @@ with
   and
   <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p style="margin-top:0.5cm;"><b>_American Economic Review: Insights_</b> (accepted)</p>
+<p style="margin-top:0.5cm;"><i><b>American Economic Review: Insights</b></i> (accepted)</p>
 
 <p style="margin-top:0.5cm; margin-bottom:0.5cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
