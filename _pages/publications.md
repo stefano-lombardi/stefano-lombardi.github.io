@@ -32,9 +32,9 @@ with
   and
   <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p style="margin-top:0.5cm;"><i><b>American Economic Review: Insights</b></i> (accepted)</p>
+<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i> (accepted)</p>
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;">Media coverage: 
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
 <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian),
 <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish),
@@ -59,7 +59,7 @@ with
 <a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>Proceedings of the National Academy of Sciences of the United States of America (PNAS)</b></i>, 2021, 118(40)
 </p>
 
@@ -93,7 +93,7 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 with 
 <a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>Fiscal Studies</b></i>, 2021, 42(1), pp. 223-244
 </p>
 
@@ -114,7 +114,7 @@ with
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
 
-<p style="margin-top:0.5cm; margin-bottom:0.5cm;">
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>Labour Economics</b></i>, 2018, 53, pp. 33-45
 </p>
 
