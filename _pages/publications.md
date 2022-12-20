@@ -25,14 +25,14 @@ a:visited {
 
 ## [The Unequal Cost of Job Loss Across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
 with
-<a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
-<a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
-<a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
-<a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
-and
-<a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
+  <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
+  <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
+  <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
+  <a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
+  and
+  <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<b>_American Economic Review: Insights_</b> (accepted)
+<p style="margin-top:0.5cm;"><b>_American Economic Review: Insights_</b> (accepted)</p>
 
 <p style="margin-top:0.5cm; margin-bottom:0.5cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
