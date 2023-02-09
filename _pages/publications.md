@@ -23,6 +23,35 @@ a:visited {
 -->
 
 
+## [The Unequal Cost of Job Loss Across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
+with
+  <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
+  <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
+  <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
+  <a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
+  and
+  <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
+
+<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i> (accepted)</p>
+
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
+<a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
+<a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">lavoce.info</a> (in Italian),
+<a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation</a> (in Spanish),
+<a href="https://research.pej.pt/2022/03/the-experience-of-losing-a-job-in-different-countries-in-europe/">Portuguese Economy Research Report</a> (in English).</p>
+
+<!-- <a href="https://www.editorialedomani.it/economia/dati/perdere-lavoro-italia-costo-alto-mancano-politiche-attive-v36rjp60">Domani</a> -->
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+  We document the consequences of losing a job across countries using a harmonized research design and high-quality administrative registers. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in between.  Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within-country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
+  <!--
+  This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
+  -->
+  </p>
+</div>
+
+
 ## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
 
 with 
@@ -30,7 +59,9 @@ with
 <a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
-_Proceedings of the National Academy of Sciences of the United States of America (PNAS)_, 2021, 118(40)
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
+  <i><b>Proceedings of the National Academy of Sciences of the United States of America (PNAS)</b></i>, 2021, 118(40)
+</p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
@@ -62,7 +93,9 @@ _Proceedings of the National Academy of Sciences of the United States of America
 with 
 <a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
 
-_Fiscal Studies_, 2021, 42(1), pp. 223-244
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
+  <i><b>Fiscal Studies</b></i>, 2021, 42(1), pp. 223-244
+</p>
 
 <!-- <div class="read-more" data-collapsed-height="6em" style="text-align: justify"> -->
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
@@ -81,7 +114,9 @@ with
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
 
-_Labour Economics_, 2018, 53, pp. 33-45
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
+  <i><b>Labour Economics</b></i>, 2018, 53, pp. 33-45
+</p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
@@ -110,7 +145,6 @@ _Labour Economics_, 2018, 53, pp. 33-45
 Working papers 
 ===============
 
-
 ## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
@@ -120,30 +154,7 @@ Working papers
 </div>
 
 
-
-## The Unequal Cost of Job Loss Across Countries<br>
-_**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
-
-with 
-<a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
-<a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
-<a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
-<a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
-and
-<a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a>
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper">
-  We document the consequences of losing a job across countries using a harmonized research design and high-quality administrative registers. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in between.  Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within-country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
-  <!--
-	This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
-  -->
-  </p>
-</div>
-
-
-
-## [Firm productivity and the immigrant-native earnings gap](/files/SWE_AKM_wp.pdf?dl=0)
+## [Firm productivity and immigrant-native earnings disparity](/files/SWE_AKM_wp.pdf?dl=0)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
