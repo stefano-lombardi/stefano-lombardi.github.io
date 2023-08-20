@@ -154,7 +154,7 @@ Working papers
 </div>
 
 
-## [Firm productivity and immigrant-native earnings disparity](/files/SWE_AKM_wp.pdf?dl=0)
+## [Firm productivity and immigrant-native earnings disparities](/files/SWE_AKM_wp.pdf?dl=0)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
