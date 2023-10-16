@@ -32,7 +32,7 @@ with
   and
   <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i>, 2023, 5(3), pp. pp. 393-408</p>
+<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i>, 2023, 5(3), pp. 393-408</p>
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
