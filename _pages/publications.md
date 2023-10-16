@@ -23,7 +23,7 @@ a:visited {
 -->
 
 
-## [The Unequal Cost of Job Loss Across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
+## [The Unequal Cost of Job Loss Across Countries](/files/2023_NBER_cost_of_job_loss.pdf?dl=0)
 with
   <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
   <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
@@ -32,7 +32,7 @@ with
   and
   <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
-<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i> (accepted)</p>
+<p style="margin-top:0.3cm;"><i><b>American Economic Review: Insights</b></i>, 2023, 5(3), pp. pp. 393-408</p>
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEU.org</a> and <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> (in English), 
