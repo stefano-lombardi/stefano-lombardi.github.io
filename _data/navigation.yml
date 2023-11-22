@@ -7,8 +7,8 @@ main:
   - title: "Research"
     url: /publications/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
 
   #- title: "Job market paper"
   #  url: /job-market-paper/   
