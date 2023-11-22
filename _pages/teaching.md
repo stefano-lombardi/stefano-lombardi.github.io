@@ -32,7 +32,11 @@ In 2016 I took an internationally recognized [academic teacher training course](
 <!-- ## Teaching  -->
 
 2023: Applied Microeconometrics I (MSc level), instructur, _Aalto University, Economics Department_. 
+<!-- ADDIITONAL SPACE, roughly 30px -->
+ <br><br>  
 
 2015--2016: Econometrics I (PhD level), teaching assistant, _Uppsala University, Economics Department_.
-
+<!-- ADDIITONAL SPACE, roughly 30px -->
+ <br><br>  
+ 
 2015--2016: Econometrics II (PhD level), teaching assistant, _Uppsala University, Economics Department_.
