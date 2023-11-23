@@ -23,11 +23,8 @@ a:visited {
 -->
 
 
-<<<<<<< HEAD
+
 ## [The Unequal Consequences of Job Loss across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
-=======
-## [The Unequal Cost of Job Loss Across Countries](/files/2023_NBER_cost_of_job_loss.pdf?dl=0)
->>>>>>> 606e1c7f8f3af92136adc6cf3479b3b10680476b
 with
   <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
   <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
