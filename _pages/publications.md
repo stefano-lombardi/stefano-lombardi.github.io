@@ -219,26 +219,28 @@ _Fiscal Studies_, 2021, 42(1), pp. 223-244
 
  
 <!-- ADDIITONAL SPACE, roughly 30px 
- <br><br>  
 -->
+ <br><br>  
 
-<!--
-Work in Progress 
+
+Ongoing projects
 ===============
 
 <p style="height: 20px"></p>
 
-**Does Unemployment Affect Intra-household Decisions?**, with Jonas Cederlöf and Johan Vikström
+<p style="margin-top:0.3cm;">2022-: Gene-environemnt interactions and socioeconomic inequality (<em>Co-Principal Investigator</em> with Andrea Ganna). 
+</p>
 
-**An Atlas of Disease-specific Lifetime Reproductive Success**, 
-with Tove Fall, 
-Mika Gissler, 
-Aoxing Liu,
-Gianmarco Mignogna, 
-Tuomo Kiiskinen, 
-Aki Havulinna, 
-and Andrea Ganna
--->
+<p style="margin-top:0.3cm;">2022-: Nordic comparative micro-data laboratory for analyses of common shocks (joint collaboration with researchers from all Nordic countries; <em>Co-Principal Investigator</em> of the Finnish team with Hanna Pesola).
+</p>
+
+<p style="margin-top:0.3cm;">2022-: Labor Market integration in changing times (<em>Principal Investigator</em>: Olof Åslund).
+
+<p style="margin-top:0.3cm;">2024-: The centralization of monitoring in Unemployment Insurance systems (<em>Principal Investigator</em>). 
+</p>
+
+</p>
+
 
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
