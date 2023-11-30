@@ -237,7 +237,7 @@ Ongoing projects
 <p style="margin-top:0.3cm;">2023-: Gene-environemnt interactions and socioeconomic inequality (<em>Co-Principal Investigator</em> with Andrea Ganna). 
 </p>
 
-<p style="margin-top:0.3cm;">2022-: Nordic comparative micro-data laboratory for analyses of common shocks (joint collaboration with researchers from all Nordic countries; <em>Co-Principal Investigator</em> of the Finnish team with Hanna Pesola).
+<p style="margin-top:0.3cm;">2022-: Nordic comparative micro-data laboratory for analyses of common shocks (joint collaboration with researchers from all Nordic countries; <em>Co-Principal Investigator</em> for the Finnish team with Hanna Pesola).
 </p>
 
 <p style="margin-top:0.3cm;">2022-: Labor Market integration in changing times (<em>Principal Investigator</em>: Olof Åslund).
