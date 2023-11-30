@@ -13,7 +13,7 @@ redirect_from:
 <p style="margin-top:0.3cm;">Welcome!</p>
 
 <p style="margin-top:0.3cm;">I am senior researcher at <a href="https://vatt.fi/en/frontpage">VATT</a> (Institute for Economic Research, Helsinki).
-I currently hold an early-researcher grant from the Academy of Finland.</p>
+I currently hold an early-career grant from the Academy of Finland.</p>
 
 <p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. 
 I am also interested in how public policies affect firm behaviour and performance. <!-- , and in dynamic treatment evaluation methods.--><!-- and microsimulation techniques. --></p>
