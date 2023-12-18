@@ -56,7 +56,7 @@ with
 ## [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
 with
   <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
-  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Stefano Lombardi, Tove Fall,
+  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Tove Fall,
   <a href="https://www.nuffield.ox.ac.uk/people/profiles/melinda-mills/">Melinda C. Mills</a>, 
   and
   <a href="https://researchportal.helsinki.fi/en/persons/andrea-ganna/">Andrea Ganna</a>
