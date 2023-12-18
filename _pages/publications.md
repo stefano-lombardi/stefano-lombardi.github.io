@@ -80,7 +80,7 @@ with
 Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>Proceedings of the National Academy of Sciences of the United States of America</b></i>, 2021, 118(40)
+  <i><b>Proceedings of the National Academy of Sciences (PNAS)</b></i>, 2021, 118(40)
 </p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
