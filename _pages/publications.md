@@ -53,6 +53,23 @@ with
 </div>
 
 
+## [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
+with
+  <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
+  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Stefano Lombardi, Tove Fall,
+  <a href="https://www.nuffield.ox.ac.uk/people/profiles/melinda-mills/">Melinda C. Mills</a>, 
+  and
+  <a href="https://researchportal.helsinki.fi/en/persons/andrea-ganna/">Andrea Ganna</a>
+
+<p style="margin-top:0.3cm;"><i><b>Nature Human Behaviour</b></i>, 2023 (accepted)</p>
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+	The percentage of people without children over their lifetime is approximately 25% in men and 20% in women. Individual diseases have been linked to childlessness, mostly in women, yet we lack a comprehensive picture of the effect of early-life diseases on lifetime childlessness. We examined all individuals born in 1956–1968 (men) and 1956–1973 (women) in Finland (n = 1,035,928) and Sweden (n = 1,509,092) to the completion of their reproductive lifespan in 2018. Leveraging nationwide registers, we associated sociodemographic and reproductive information with 414 diseases across 16 categories, using a population and matched-pair case–control design of siblings discordant for childlessness (71,524 full sisters and 77,622 full brothers). The strongest associations were mental–behavioral disorders (particularly among men), congenital anomalies and endocrine–nutritional–metabolic disorders (strongest among women). We identified new associations for inflammatory and autoimmune diseases. Associations were dependent on age at onset and mediated by singlehood and education. This evidence can be used to understand how disease contributes to involuntary childlessness.
+  </p>
+</div>
+
+
 ## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
 
 with 
