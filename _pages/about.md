@@ -15,7 +15,7 @@ redirect_from:
 <p style="margin-top:0.3cm;">I am senior researcher at <a href="https://vatt.fi/en/frontpage">VATT</a> (Institute for Economic Research, Helsinki).
 I currently hold an early-career grant from the Academy of Finland.</p>
 
-<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics and in Social science genetics. 
+<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. <!--and in Social science genetics. -->
 <!-- I am also interested in how public policies affect firm behaviour and performance and in dynamic treatment evaluation methods.--><!-- and microsimulation techniques. --></p>
 
 <p style="margin-top:0.3cm;">I received my PhD in Economics from Uppsala University in Autumn 2019.
