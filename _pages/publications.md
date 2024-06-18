@@ -264,7 +264,7 @@ co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED pro
 
 ## Causes and consequences of domestic outsourcing: evidence from the Swedish labor market
 
-with Olof Åslund, Cristina Bratu, Anna Thoresson, and Oskar Nordström Skans
+with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 
 
 ## The economic consequences of tax inheritance: evidence from a Norwegian reform
