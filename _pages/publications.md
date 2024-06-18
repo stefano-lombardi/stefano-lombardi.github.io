@@ -242,6 +242,43 @@ _Fiscal Studies_, 2021, 42(1), pp. 223-244
  <br><br>  
 
 
+
+Work in progress (tentative titles)
+===============
+
+## Collective bargaining agreements 
+
+co-lead with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, and Toni Juuti
+
+
+## The Unequal Impact of Firms on the Relative Pay of Women Across Countries
+
+co-lead by Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, 
+and with Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, Oskar Nordström Skans
+
+
+## Job loss and the green transition across countries
+
+co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED project group 
+
+
+## Causes and consequences of domestic outsourcing: evidence from the Swedish labor market
+
+with Olof Åslund, Cristina Bratu, Anna Thoresson, and Oskar Nordström Skans
+
+
+## The economic consequences of tax inheritance: evidence from a Norwegian reform
+
+with Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
+
+
+ 
+
+<!-- ADDIITONAL SPACE, roughly 30px -->
+ <br><br>  
+
+
+
 Ongoing projects
 ===============
 
@@ -260,8 +297,6 @@ Ongoing projects
 </p>
 
 <p style="margin-top:0.3cm;">2022-: Labor Market integration in changing times (<em>Principal Investigator</em>: Olof Åslund).
-
-
 
 </p>
 
