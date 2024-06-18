@@ -253,8 +253,7 @@ co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller
 
 ## The Unequal Impact of Firms on the Relative Pay of Women Across Countries
 
-co-led by Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, 
-and with Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, Oskar Nordström Skans
+with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
 
 
 ## Job loss and the green transition across countries
