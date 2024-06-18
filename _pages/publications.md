@@ -246,7 +246,7 @@ _Fiscal Studies_, 2021, 42(1), pp. 223-244
 Work in progress 
 ===============
 
-## Collective bargaining agreements 
+## Collective bargaining agreements across countries
 
 co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, and Toni Juuti
 
