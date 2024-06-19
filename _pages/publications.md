@@ -261,7 +261,7 @@ with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Ba
 co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED project group 
 
 
-## Causes and consequences of domestic outsourcing: evidence from the Swedish labor market
+## Causes and consequences of domestic outsourcing in the Swedish labor market
 
 with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 
