@@ -23,6 +23,48 @@ a:visited {
 -->
 
 
+## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/empirical_mc_ToE.pdf?dl=0)
+
+<!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
+ -->
+
+with 
+<a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
+and 
+<a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
+  
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
+  <i><b>Econometric Reviews</b></i>, 2024 (accepted)
+</p>
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+  This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate realistic placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. We show that in many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. 
+  <!--However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points. -->
+  </p>
+</div>
+
+
+
+## [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
+with
+  <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
+  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Tove Fall,
+  <a href="https://www.nuffield.ox.ac.uk/people/profiles/melinda-mills/">Melinda C. Mills</a>, 
+  and
+  <a href="https://researchportal.helsinki.fi/en/persons/andrea-ganna/">Andrea Ganna</a>
+
+<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
+  <i><b>Nature Human Behaviour</b></i>, 2024, 8, pp. 276-287
+</p>
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+  The percentage of people without children over their lifetime is approximately 25% in men and 20% in women. Individual diseases have been linked to childlessness, mostly in women, yet we lack a comprehensive picture of the effect of early-life diseases on lifetime childlessness. We examined all individuals born in 1956–1968 (men) and 1956–1973 (women) in Finland (n = 1,035,928) and Sweden (n = 1,509,092) to the completion of their reproductive lifespan in 2018. Leveraging nationwide registers, we associated sociodemographic and reproductive information with 414 diseases across 16 categories, using a population and matched-pair case–control design of siblings discordant for childlessness (71,524 full sisters and 77,622 full brothers). The strongest associations were mental–behavioral disorders (particularly among men), congenital anomalies and endocrine–nutritional–metabolic disorders (strongest among women). We identified new associations for inflammatory and autoimmune diseases. Associations were dependent on age at onset and mediated by singlehood and education. This evidence can be used to understand how disease contributes to involuntary childlessness.
+  </p>
+</div>
+
+
 
 ## [The Unequal Consequences of Job Loss across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
 with
@@ -49,25 +91,6 @@ with
   <!--
   This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
   -->
-  </p>
-</div>
-
-
-## [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
-with
-  <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
-  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Tove Fall,
-  <a href="https://www.nuffield.ox.ac.uk/people/profiles/melinda-mills/">Melinda C. Mills</a>, 
-  and
-  <a href="https://researchportal.helsinki.fi/en/persons/andrea-ganna/">Andrea Ganna</a>
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>Nature Human Behaviour</b></i>, 2023 (accepted)
-</p>
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper">
-	The percentage of people without children over their lifetime is approximately 25% in men and 20% in women. Individual diseases have been linked to childlessness, mostly in women, yet we lack a comprehensive picture of the effect of early-life diseases on lifetime childlessness. We examined all individuals born in 1956–1968 (men) and 1956–1973 (women) in Finland (n = 1,035,928) and Sweden (n = 1,509,092) to the completion of their reproductive lifespan in 2018. Leveraging nationwide registers, we associated sociodemographic and reproductive information with 414 diseases across 16 categories, using a population and matched-pair case–control design of siblings discordant for childlessness (71,524 full sisters and 77,622 full brothers). The strongest associations were mental–behavioral disorders (particularly among men), congenital anomalies and endocrine–nutritional–metabolic disorders (strongest among women). We identified new associations for inflammatory and autoimmune diseases. Associations were dependent on age at onset and mediated by singlehood and education. This evidence can be used to understand how disease contributes to involuntary childlessness.
   </p>
 </div>
 
@@ -194,22 +217,6 @@ and
   <!-- This paper studies the role of firm productivity in explaining earnings differences between immigrants and natives in Sweden. We first show that firms with higher value added per worker pay higher earnings and document that immigrant workers are under-represented in high-productive firms relative to natives.  Next, we estimate substantial positive earnings returns to working in more productive firms, with significantly larger returns for immigrants from non-Western countries. We also find that immigrants are less likely to move up the firm productivity distribution. Sorting into less productive firms thus decreases earnings in poor-performing immigrant groups that would gain the most from firm productivity. The results are consistent with firms having differential wage-setting power over immigrants and natives. -->
 
 
-## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/empirical_mc_ToE.pdf?dl=0)
-
-<!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
- -->
-
-with 
-<a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
-and 
-<a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
-  
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper">
-	This paper uses an Empirical Monte Carlo simulation approach to study estimation of Timing-of-Events (ToE) models. We exploit rich Swedish data of jobseekers with information on participation in a training program to simulate realistic placebo treatment durations. We first use these simulations to examine which covariates are major confounding variables to be included in selection models. We then show that the joint inclusion of specific types of short-term employment history variables (notably, the share of time spent in employment), together with baseline socio-economic characteristics, regional and inflow timing information, is able to remove selection bias. Next, we omit sets of variables and estimate ToE models with discrete distributions for the ensuing systematic unobserved heterogeneity. We show that in many cases the ToE approach provides accurate effect estimates, especially if calendar-time variation in the unemployment rate of the local labor market is taken into account. 
-	<!--However, assuming too many or too few support points for the unobserved heterogeneity may lead to large biases. Information criteria, in particular those penalizing parameter abundance, are useful to select the number of support points. -->
-  </p>
-</div>
 
 
 
