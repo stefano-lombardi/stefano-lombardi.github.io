@@ -34,7 +34,7 @@ and
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
   
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>Econometric Reviews</b></i>, 2024 (accepted)
+  <i><b>Econometric Reviews</b></i> (accepted)
 </p>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
