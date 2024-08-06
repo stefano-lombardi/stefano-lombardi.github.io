@@ -210,12 +210,9 @@ and
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
-    We develop a grouping measure based on persistent firm productivity to study the role of employers in explaining the immigrant-native earnings gap. Using Swedish population-wide matched employer-employee data, we find substantial returns to working in more productive firms for all workers. However, the returns are particularly high for those immigrants concentrated in low-productive firms. The unequal sorting of workers across the firm productivity distribution explains one fifth of the immigrant-native earnings gap. Worker sorting cannot be explained by skill differences between native and immigrant workers. Instead, managerial hiring practices along origin lines reinforce the unequal access to high-productive firms.
+    We study the role of firm productivity in explaining the immigrant-native earnings gap using balance sheet and population-wide employer-employee data. The returns to working in firms with higher persistent productivity are especially high for immigrants, who gain the most from avoiding the least productive firms in which they are strongly over-represented. Immigrant-native skill differences can only partly explain the differential sorting across firms. Taken together, our results suggest group-specific barriers to climbing the productivity ladder. We find that one important barrier operates through manager-worker homophily, which reinforces the unequal access to high-productive firms and differential ability of extracting firm rents.
   </p>
 </div>
-
-  <!-- This paper studies the role of firm productivity in explaining earnings differences between immigrants and natives in Sweden. We first show that firms with higher value added per worker pay higher earnings and document that immigrant workers are under-represented in high-productive firms relative to natives.  Next, we estimate substantial positive earnings returns to working in more productive firms, with significantly larger returns for immigrants from non-Western countries. We also find that immigrants are less likely to move up the firm productivity distribution. Sorting into less productive firms thus decreases earnings in poor-performing immigrant groups that would gain the most from firm productivity. The results are consistent with firms having differential wage-setting power over immigrants and natives. -->
-
 
 
 
