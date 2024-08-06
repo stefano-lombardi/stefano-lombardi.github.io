@@ -255,7 +255,7 @@ Work in progress
 
 ## Collective bargaining agreements across countries
 
-co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, and Toni Juuti
+co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, Toni Juuti, and Alice Kügler
 
 
 ## The Unequal Impact of Firms on the Relative Pay of Women Across Countries
