@@ -188,11 +188,19 @@ and
 Working papers 
 ===============
 
-## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
+## [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
+with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
+Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
+Benonisdottir S., Bhatta L., Boomsma D., Brumpton B., Campbell A., 
+Chabris C. F., ..., 
+<!--
+Rosa Cheesman, Zhengming Chen, China Kadoorie Biobank Collaborative Group, Eco de Geus, Erik A Ehli, Abdelrahman G Elnahas, Estonian Biobank Research Team, Finngen Authors, Andrea Ganna, Alexandros Giannelis, Liisa Hakaste, Ailin Falkmo Hansen, Alexandra Havdahl, Caroline Hayward, Jouke-Jan Hottenga, Mikkel Aagaard Houmark, Kristian Hveem, Jaakko Kaprio, Arnulf Langhammer, Antti Latvala, James J Lee, Mikko Lehtovirta, Liming Li, LifeLines Cohort Study, Kuang Lin, Richard Karlsson Linner, Stefano Lombardi, Nicholas G Martin, Matt McGue, Sarah E Medland, Andres Metspalu, Brittany L Mitchell, Guiyan Ni, Ilja M Nolte, Matthew T Oetjens Oetjens, Sven Oskarsson, Teemu Palviainen, Rashmi B Prasad, Anu Reigo, Kadri Reis, Julia Sidorenko, Karri Silventoinen, Harold Snieder, Tiinamaija Tuomi, Bjarni J Vilhjalmsson, Robin G Walters, Emily A Willoughby, Bendik S Winsvold, Eivind Ystrom, Jonathan Flint, Loic Yengo, Peter M Visscher, Augustine Kong, Elliot M Tucker-Drob, Richard Border, David Cesarini, Patrick Turley, Aysu Okbay, Daniel J Benjamin, Alexander Strudwick Young
+-->
+and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
-	The paper provides among the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects as is typically done in the literature.
+  Genome-wide association studies (GWAS) have discovered thousands of replicable genetic associations, guiding drug target discovery and powering genetic prediction of human phenotypes and diseases. However, genetic associations can be affected by gene-environment correlations and non-random mating, which can lead to biased inferences in downstream analyses. Family-based GWAS (FGWAS) uses the natural experiment of random assignment of genotype within families to separate out the contribution of direct genetic effects (DGEs) - causal effects of alleles in an individual on an individual - from other factors contributing to genetic associations. Here, we report results from an FGWAS meta-analysis of 34 phenotypes from 17 cohorts. We found evidence that factors uncorrelated with DGEs make substantial contributions to genetic associations for 27 phenotypes, with population stratification confounding - a form of gene-environment correlation - likely the major cause. By estimating SNP heritability and genetic correlations using DGEs, we found evidence that assortative mating has led to overestimation of SNP heritability for 5 phenotypes and overestimation of the degree of shared genetic effects (pleiotropy) between 22 pairs of phenotypes. Polygenic predictors constructed from DGEs are particularly useful for studying natural selection, assortative mating, and indirect genetic effects (effects of relatives’ genes mediated through the family environment). We validate our meta-analysis results by predicting phenotypes in hold-out samples using polygenic predictors constructed from DGEs, achieving statistically significant out-of-sample prediction for 24 phenotypes with little attenuation of predictive power within-families. We provide FGWAS summary statistics for 34 phenotypes that can be used for downstream analyses. Our study provides both a template for performing FGWAS and an argument for its value for debiasing inferences and understanding the impact of environment and mating patterns.
   </p>
 </div>
 
@@ -214,6 +222,14 @@ and
   </p>
 </div>
 
+
+## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+  The paper provides among the first quasi-experimental estimates of the threat of unemployment insurance (UI) benefit sanctions on job-exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for (i) UI claimants and (ii) job-seekers who exhausted their UI benefits and therefore receive alternative “activity support” benefits instead. Results show that men (in particular if long-term unemployed) respond to monitoring and the threat of sanctions by finding jobs faster. By contrast, the existing literature has almost exclusively focused on estimating how job-finding rates respond for those actually receiving a sanction. I estimate such “sanction-imposition effects” and find that they are similar in size for men and women. I further show that properly aggregated sanction-imposition effects explain very little of the overall reform effects for males, and that they are sufficiently small to be consistent with the small and insignificant reform effects found for women. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing only on the sanction imposition effects as is typically done in the literature.
+  </p>
+</div>
 
 
 
