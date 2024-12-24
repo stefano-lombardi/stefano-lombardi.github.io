@@ -192,6 +192,16 @@ Working papers
 co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
 
 
+## [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/palladino_et_al_gwg_across_countries.pdf?dl=0)
+with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
+(_draft available upon request_)
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+  We use matched employer-employee datasets from the US and Europe to document the contribution of firm-specific pay premiums to the gender hourly wage gap. Our findings are as follows: (1) The impact of firm-specific wage premiums on the gender wage gap —the firm effects gap— varies considerably across the 11 countries we study. It accounts for two-thirds of the gender wage gap in the US and, at most, one-third in Europe. (2) A decomposition of the firm effects gap into sorting (women working in lower-paying firms) and pay-setting (women earning less in similar firms) reveals stark differences across countries. The pay-setting effect explains less than 10 percent of the gender wage gaps in most countries. In countries with a lower degree of wage-setting centralization (Hungary and US) the importance of the pay-setting effect is much larger.
+  </p>
+</div>
+
 ## [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
