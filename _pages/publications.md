@@ -188,6 +188,10 @@ and
 Working papers 
 ===============
 
+## [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
+co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
+
+
 ## [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
@@ -270,25 +274,22 @@ _Fiscal Studies_, 2021, 42(1), pp. 223-244
 Work in progress 
 ===============
 
+<!-- 
 ## Collective bargaining agreements across countries
 
 co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, Toni Juuti, and Alice Kügler
-
+-->
 
 ## The Unequal Impact of Firms on the Relative Pay of Women Across Countries
 
 with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
+(_draft available upon request_)
 
-
-## Job loss and the green transition across countries
-
-co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED project group 
-
-
+<!-- 
 ## Causes and consequences of domestic outsourcing in the Swedish labor market
 
 with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
-
+-->
 
 ## The economic consequences of tax inheritance: evidence from a Norwegian reform
 
