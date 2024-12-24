@@ -290,10 +290,12 @@ Work in progress
 co-lead author with Tuomas Kosonen, and with Anthoine Bertheau, Manudeep Bhuller, Ana Rute Cardoso, Bernardo Fanfani, Toni Juuti, and Alice Kügler
 -->
 
+<!-- 
 ## The Unequal Impact of Firms on the Relative Pay of Women Across Countries
 
 with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
 (_draft available upon request_)
+-->
 
 <!-- 
 ## Causes and consequences of domestic outsourcing in the Swedish labor market
@@ -306,6 +308,10 @@ with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 with Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
 
 
+## Heterogenous associations of polygenic indices of 35 traits with mortality
+
+with Hannu Lahtinen, Andrea Ganna, Jaakko Kaprio, Kaarina Korhonen, Karri Silventoinen, and Pekka Martikainen
+(_draft available upon request_)
  
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
