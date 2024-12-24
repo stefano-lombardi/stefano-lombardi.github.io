@@ -308,14 +308,18 @@ Ongoing projects
 
 <p style="height: 20px"></p>
 
+<!-- 
 <p style="margin-top:0.3cm;">2024-: The centralization of monitoring in Unemployment Insurance systems (<em>Principal Investigator</em>). 
 </p>
+-->
 
 <p style="margin-top:0.3cm;">2023-: LinkEED project, second round (OECD cross-country project that uses microdata from 15 countries; <em>Principal Investigator</em> for Finland). 
 </p>
 
+<!-- 
 <p style="margin-top:0.3cm;">2023-: Gene-environemnt interactions and socioeconomic inequality (<em>Co-Principal Investigator</em> with Andrea Ganna). 
 </p>
+-->
 
 <p style="margin-top:0.3cm;">2022-: Nordic comparative micro-data laboratory for analyses of common shocks (joint collaboration with researchers from all Nordic countries; <em>Co-Principal Investigator</em> for the Finnish team with Hanna Pesola).
 </p>
