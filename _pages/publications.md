@@ -313,7 +313,7 @@ Ongoing projects
 </p>
 -->
 
-<p style="margin-top:0.3cm;">2023-: LinkEED project, second round (OECD cross-country project that uses microdata from 15 countries; <em>Principal Investigator</em> for Finland). 
+<p style="margin-top:0.3cm;">2023-: LinkEED project, second round (OECD cross-country project that uses matched employer-employee population registers from 20 countries; <em>Principal Investigator</em> for Finland). 
 </p>
 
 <!-- 
