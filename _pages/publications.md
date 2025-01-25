@@ -150,7 +150,7 @@ with
 
 
 
-## [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
+# [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
 with 
 <a href="https://sites.google.com/site/oskarskans/home">Oskar Nordström Skans</a>
