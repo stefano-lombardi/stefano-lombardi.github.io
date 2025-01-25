@@ -23,7 +23,7 @@ a:visited {
 -->
 
 
-## [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/2024_ToE.pdf?dl=0)
+### [Empirical Monte Carlo Evidence on Estimation of Timing-of-Events Models](/files/2024_ToE.pdf?dl=0)
 
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
@@ -46,7 +46,7 @@ and
 
 
 
-## [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
+### [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
 with
   <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
   Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Tove Fall,
@@ -66,7 +66,7 @@ with
 
 
 
-## [The Unequal Consequences of Job Loss across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
+### [The Unequal Consequences of Job Loss across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
 with
   <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
   <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
@@ -95,7 +95,7 @@ with
 </div>
 
 
-## [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
+### [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
 
 with 
 <a href="https://hschwandt.com/">Hannes Schwandt</a>, 
@@ -131,7 +131,7 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 </div>
 
 
-## [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
+### [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
 
 with 
 <a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
@@ -188,11 +188,11 @@ and
 Working papers 
 ===============
 
-## [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
+### [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
 co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
 
 
-## [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/palladino_et_al_gwg_across_countries.pdf?dl=0)
+### [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/palladino_et_al_gwg_across_countries.pdf?dl=0)
 with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
 (_draft available upon request_)
 
@@ -202,7 +202,7 @@ with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Ba
   </p>
 </div>
 
-## [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
+### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -223,7 +223,7 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 </div>
 
 
-## [Firm productivity and immigrant-native earnings disparities](/files/SWE_AKM_wp.pdf?dl=0)
+### [Firm productivity and immigrant-native earnings disparities](/files/SWE_AKM_wp.pdf?dl=0)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
@@ -241,7 +241,7 @@ and
 </div>
 
 
-## [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
+### [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
@@ -303,12 +303,12 @@ with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Ba
 with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 -->
 
-## The economic consequences of tax inheritance: evidence from a Norwegian reform
+### The economic consequences of tax inheritance: evidence from a Norwegian reform
 
 with Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
 
 
-## Heterogenous associations of polygenic indices of 35 traits with mortality
+### Heterogenous associations of polygenic indices of 35 traits with mortality
 
 with Hannu Lahtinen, Andrea Ganna, Jaakko Kaprio, Kaarina Korhonen, Karri Silventoinen, and Pekka Martikainen
 (_draft available upon request_)
