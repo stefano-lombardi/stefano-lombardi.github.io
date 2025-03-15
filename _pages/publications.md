@@ -245,7 +245,7 @@ and
 ### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0)
 with 
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
-Andrea Ganna, Jaakko Kaprio, Kaarina Korhonen, Karri Silventoinen, 
+Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Karri Silventoinen, 
 and
 <a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a>
  
