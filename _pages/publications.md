@@ -241,6 +241,25 @@ and
 </div>
 
 
+
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0)
+with 
+<a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
+Andrea Ganna, Jaakko Kaprio, Kaarina Korhonen, Karri Silventoinen, 
+and
+<a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a>
+ 
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper">
+    Polygenic indices (PGIs) of various traits abound, but the knowledge remains limited on how they predict wide-ranging health indicators, including the risk of death. We investigated the associations between mortality and 35 different PGIs related to social, behavioural and psychological traits, and typically non-fatal health conditions.
+    Data consist of Finnish adults from population-representative genetically informed epidemiological surveys linked to administrative registers (N: 40097, 5948 deaths). Within-sibship analysis was complemented with dizygotic twins from Finnish twin study cohorts (N: 10174, 2116 deaths). We estimated Cox proportional hazards models with mortality follow up 1995–2019.
+    The PGIs most strongly predictive of all-cause mortality were ever smoking, self-rated health, body mass index, educational attainment, depressive symptoms, and alcohol drinks per week. Within-sibship estimates were approximately consistent with the population analysis. The investigated PGIs were typically more predictive for external than for natural causes of death. PGIs were more strongly associated with death occurring at younger ages, while among those who survived to age 80, the PGI–mortality associations were negligible.
+    In conclusion the PGIs related to the best-established mortality risk phenotypes had the strongest associations with mortality. They offer moderate additional prediction even when mutually adjusting with their phenotype. Within-sibship analysis indicated no evidence for inflation of PGI-mortality associations by population phenomena.
+  </p>
+</div>
+
+
+
 ### [Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms](/files/lombardi_jmp.pdf?dl=0)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
@@ -308,10 +327,7 @@ with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 with Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
 
 
-### Heterogenous associations of polygenic indices of 35 traits with mortality
 
-with Hannu Lahtinen, Andrea Ganna, Jaakko Kaprio, Kaarina Korhonen, Karri Silventoinen, and Pekka Martikainen
-(_draft available upon request_)
  
 
 <!-- ADDIITONAL SPACE, roughly 30px -->
