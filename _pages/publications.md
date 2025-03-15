@@ -28,8 +28,7 @@ a:visited {
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
 
-Stefano Lombardi,  
-<a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
+Stefano Lombardi, <a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
   
@@ -103,10 +102,7 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> 
   <p class="read-more_text-wrapper">
-    Although there is a large gap between Black and White American life expectancies, the gap fell
-    48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We
-    examine age-specific mortality trends and racial gaps in life expectancy in rich and poor U.S.
-    areas and with reference to six European countries.
+    Although there is a large gap between Black and White American life expectancies, the gap fell 48.9% between 1990-2018, mainly due to mortality declines among Black Americans. We examine age-specific mortality trends and racial gaps in life expectancy in rich and poor U.S. areas and with reference to six European countries.
     Inequalities in life expectancy are starker in the U.S. than in Europe. In 1990 White Americans
     and Europeans in rich areas had similar overall life expectancy, while life expectancy for White
     Americans in poor areas was lower. But since then even rich White Americans have lost ground
@@ -192,7 +188,7 @@ Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto
 (_draft available upon request_)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper">
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
   We use matched employer-employee datasets from the US and Europe to document the contribution of firm-specific pay premiums to the gender hourly wage gap. Our findings are as follows: (1) The impact of firm-specific wage premiums on the gender wage gap —the firm effects gap— varies considerably across the 11 countries we study. It accounts for two-thirds of the gender wage gap in the US and, at most, one-third in Europe. (2) A decomposition of the firm effects gap into sorting (women working in lower-paying firms) and pay-setting (women earning less in similar firms) reveals stark differences across countries. The pay-setting effect explains less than 10 percent of the gender wage gaps in most countries. In countries with a lower degree of wage-setting centralization (Hungary and US) the importance of the pay-setting effect is much larger.
   </p>
 </div>
