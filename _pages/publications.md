@@ -28,7 +28,7 @@ a:visited {
 <!-- Joint work with Gerard J. van den Berg and Johan Vikström -- <span style="text-decoration:underline; color:blue"> [working paper](https://www.dropbox.com/s/4zdd805pkc86uf9/empirical_mc_ToE.pdf?dl=0) </span>
  -->
 
-with 
+Stefano Lombardi,  
 <a href="https://www.rug.nl/staff/gerard.van.den.berg/research">Gerard J. van den Berg</a>,
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
@@ -47,9 +47,8 @@ and
 
 
 ### [Evidence from Finland and Sweden on the relationship between early-life diseases and lifetime childlessness in men and women](/files/Liu_et_al_FI_SE.pdf?dl=0)
-with
   <a href="https://researchportal.helsinki.fi/en/persons/aoxing-liu/publications/">Aoxing Liu</a>,
-  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Tove Fall,
+  Evelina T. Akimova, Xuejie Ding, Sakari Jukarainen, Pekka Vartiainen, Tuomo Kiiskinen, Sara Koskelainen, Aki S. Havulinna, Mika Gissler, Stefano Lombardi, Tove Fall,
   <a href="https://www.nuffield.ox.ac.uk/people/profiles/melinda-mills/">Melinda C. Mills</a>, 
   and
   <a href="https://researchportal.helsinki.fi/en/persons/andrea-ganna/">Andrea Ganna</a>
@@ -67,11 +66,11 @@ with
 
 
 ### [The Unequal Consequences of Job Loss across Countries](/files/2022_IZA_cost_of_job_loss.pdf?dl=0)
-with
   <a href="https://www.antoinebertheau.com/">Antoine Bertheau</a>,
   <a href="https://eacabbi.github.io/">Edoardo Acabbi</a>,
   <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html/">Cristina Barcelo</a>,
   <a href="https://sites.google.com/site/andreasgulyas/home/">Andreas Gulyas</a>,
+  Stefano Lombardi, 
   and
   <a href="https://sites.google.com/site/raffaelesaggio/">Raffaele Saggio</a> 
 
@@ -88,19 +87,15 @@ with
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper">
   We document the consequences of losing a job across countries using a harmonized research design and high-quality administrative registers. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in between.  Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within-country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
-  <!--
-  This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses, while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries.
-  -->
   </p>
 </div>
 
 
 ### [Inequality in Mortality between Black and White Americans by Age, Place, and Cause, and in Comparison to Europe, 1990-2018](/files/2021_schwandt_et_al.pdf?dl=0)
-
-with 
+ 
 <a href="https://hschwandt.com/">Hannes Schwandt</a>, 
 <a href="https://scholar.princeton.edu/jcurrie/">Janet Currie</a>, 
-Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
+Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatrice Zong-Ying Chao, Claudia Costa, Libertad Gonzalez, Veronica Grembi, Kristiina Huttunen, René Karadakic, Lucy Kraftman, Sonya Krutikova, Stefano Lombardi, Peter Redler, Carlos Riumallo-Herl, Ana Rodríguez-González, Kjell Salvanes, Paula Santana, Josselin Thuilliez, Eddy van Doorslaer, Tom Van Ourti, Joachim Winter, Bram Wouterse and Amelie Wuppermann
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>Proceedings of the National Academy of Sciences</b></i>, 2021, 118(40)
@@ -133,8 +128,8 @@ Marlies Bär, James Banks, Paola Bertoli, Aline Bütikofer, Sarah Cattan, Beatri
 
 ### [Mortality Inequality in Finland](/files/2021_02_26_mortality_inequality_VATTwp.pdf?dl=0)
 
-with 
 <a href="https://sites.google.com/site/krhuttunen/">Kristiina Huttunen</a>
+and Stefano Lombardi
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>Fiscal Studies</b></i>, 2021, 42(1), pp. 223-244
@@ -152,7 +147,7 @@ with
 
 ### [Targeted Wage Subsidies and Firm Performance](https://www.sciencedirect.com/science/article/pii/S0927537118300320)
 
-with 
+Stefano Lombardi, 
 <a href="https://sites.google.com/site/oskarskans/home">Oskar Nordström Skans</a>
 and 
 <a href="https://sites.google.com/view/jvikstrom/home">Johan Vikström</a>
@@ -193,7 +188,7 @@ co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED gro
 
 
 ### [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/palladino_et_al_gwg_across_countries.pdf?dl=0)
-with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
+Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
 (_draft available upon request_)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
@@ -208,8 +203,7 @@ with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M.,
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
 Benonisdottir S., Bhatta L., Boomsma D., Brumpton B., Campbell A., 
 Chabris C. F., ..., 
--->
-with 
+--> 
 Tammy Tan, Hariharan Jayashankar, Junming Guan, Seyed M. Nehzati, Mahdi Mir, Michael Bennett, Esben Agerbo, Rafael Ahlskog, Ville P. de Andrade Anapaz, Bjørn O. Åsvold, Stefania Benonisdottir, Laxmi Bhatta, Dorret I. Boomsma, Ben Brumpton, Archie Campbell, Christopher F. Chabris, ...,
 <!--
 Rosa Cheesman, Zhengming Chen, China Kadoorie Biobank Collaborative Group, Eco de Geus, Erik A Ehli, Abdelrahman G Elnahas, Estonian Biobank Research Team, Finngen Authors, Andrea Ganna, Alexandros Giannelis, Liisa Hakaste, Ailin Falkmo Hansen, Alexandra Havdahl, Caroline Hayward, Jouke-Jan Hottenga, Mikkel Aagaard Houmark, Kristian Hveem, Jaakko Kaprio, Arnulf Langhammer, Antti Latvala, James J Lee, Mikko Lehtovirta, Liming Li, LifeLines Cohort Study, Kuang Lin, Richard Karlsson Linner, Stefano Lombardi, Nicholas G Martin, Matt McGue, Sarah E Medland, Andres Metspalu, Brittany L Mitchell, Guiyan Ni, Ilja M Nolte, Matthew T Oetjens Oetjens, Sven Oskarsson, Teemu Palviainen, Rashmi B Prasad, Anu Reigo, Kadri Reis, Julia Sidorenko, Karri Silventoinen, Harold Snieder, Tiinamaija Tuomi, Bjarni J Vilhjalmsson, Robin G Walters, Emily A Willoughby, Bendik S Winsvold, Eivind Ystrom, Jonathan Flint, Loic Yengo, Peter M Visscher, Augustine Kong, Elliot M Tucker-Drob, Richard Border, David Cesarini, Patrick Turley, Aysu Okbay, Daniel J Benjamin, Alexander Strudwick Young
@@ -227,10 +221,10 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
--->
-with 
+--> 
 <a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/">Olof Åslund</a>,
 <a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
+Stefano Lombardi,
 and
 <a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
  
@@ -243,9 +237,9 @@ and
 
 
 ### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0)
-with 
+ 
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
-Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Karri Silventoinen, 
+Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
 and
 <a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a>
  
@@ -324,7 +318,7 @@ with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 
 ### The economic consequences of tax inheritance: evidence from a Norwegian reform
 
-with Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
+Stefano Lombardi, Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
 
 
 
