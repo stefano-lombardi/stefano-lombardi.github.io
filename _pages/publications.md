@@ -213,7 +213,7 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 </div>
 
 
-### [Firm productivity and immigrant-native earnings disparities](/files/SWE_AKM_wp.pdf?dl=0)
+### [Firm productivity and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
