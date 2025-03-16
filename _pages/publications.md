@@ -182,6 +182,13 @@ Working papers
 ### [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
 co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
 
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+  This paper provides a comprehensive analysis of the costs of job displacement in energy-intensive industries in selected OECD countries. Based on harmonised linked employer-employee data from 14 OECD countries, we estimate the effect of job displacement in three energy-intensive industries, namely energy supply, heavy manufacturing and transport, compared to other industries. We find that workers displaced from the energy supply and heavy manufacturing, experience larger earnings losses compared with workers in non-energy-intensive and transport sectors. Larger earnings losses mainly result from weaker re-employment outcomes in terms of wages and job instability but also challenges with finding another job. They reflect significant differences in the composition of workers and firms in energy supply and heavy manufacturing and the rest of the economy. Displaced workers in these sectors tend to be older, are less skilled and more likely to be previously employed in high-wage firms.
+  </p>
+</div>
+
+
 
 ### [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/palladino_et_al_gwg_across_countries.pdf?dl=0)
 Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
