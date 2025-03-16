@@ -15,7 +15,7 @@ redirect_from:
 <p style="margin-top:0.3cm;">I am senior researcher at <a href="https://vatt.fi/en/frontpage">VATT Institute for Economic Research</a> (Helsinki). 
 </p>
 
-<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. I use microeconometric methods and population-wide matched employer-employee and health registers, cognitive and non-cognitive test scores, and genetic data, to study the production and persistence of differences in socioeconomic status. In much of my work I analyze the role of employers in determining income inequality, which I study in various international projects where I am PI for Finland and Sweden.
+<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. I use microeconometric methods and population-wide matched employer-employee and health registers, cognitive and non-cognitive test scores, and genetic data, to study the production and persistence socioeconomic inequality. In much of my work I analyze the role of employers in determining income differences across workers, which I study in various international projects where I am PI for Finland and Sweden.
 <!-- within and across generations/differences over the life cycle 
   You can read more in detail about my research in my Research statement "here".  -->
 </p>
