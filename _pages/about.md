@@ -15,7 +15,7 @@ redirect_from:
 <p style="margin-top:0.3cm;">I am senior researcher at <a href="https://vatt.fi/en/frontpage">VATT Institute for Economic Research</a> (Helsinki). 
 </p>
 
-<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. In my research I use a wide range of data sources, including population-wide register data, psychiatric test scores measuring cognitive and non-cognitive ability, and genetic variants, to highlight the sources of individual differences in socioeconomic status (primarily income and health) over the life cycle.
+<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. In my research I use a wide range of data sources, including population-wide matched employer-employee and health registers, psychiatric test scores measuring cognitive and non-cognitive ability, and genetic variants, to highlight the sources of individual differences in socioeconomic status (primarily income and health) over the life cycle.
 <!-- You can read more in detail about my research in my Research statement "here".  -->
 </p>
 
