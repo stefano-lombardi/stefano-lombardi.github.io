@@ -15,11 +15,17 @@ redirect_from:
 <p style="margin-top:0.3cm;">I am senior researcher at <a href="https://vatt.fi/en/frontpage">VATT Institute for Economic Research</a> (Helsinki). 
 </p>
 
+<!--
 <p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. I use microeconometric methods and population-wide matched employer-employee data, health registers, and genetic data to study the production and persistence socioeconomic inequality. In much of my work I analyze the role of employers in determining income differences across workers, which I study in various international projects where I am PI for Finland and Sweden.
-<!-- within and across generations/differences over the life cycle 
-  You can read more in detail about my research in my Research statement "here".  -->
-</p>
+within and across generations/differences over the life cycle 
+  You can read more in detail about my research in my Research statement "here".
+-->
 
+
+<p style="margin-top:0.3cm;">My research interests are in Labour and Health economics. 
+<!--I study the effectiveness of social policies and the sources of income and health inequality by using causal inference methods. -->
+In much of my work I analyze the role of employers in determining income inequality, which I study in various international projects where I am PI for Finland and Sweden. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in shaping income and health differences over the life cycle.
+</p>
 <!--
 My interests are in the field of labor and health economics. I study the effectiveness of social policies and the sources of inequality in society by using population registers and by developing and adopting causal inference methods. Part of my research studies the role of employers in determining income inequality. In this context, I am part of various international projects where I am PI for Sweden and Finland and that in some cases I co-lead. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in shaping income and health differences over the lifetime.
 -->
