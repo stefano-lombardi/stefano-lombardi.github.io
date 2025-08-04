@@ -24,13 +24,16 @@ within and across generations/differences over the life cycle
 
 <p style="margin-top:0.3cm;">My research interests are in labour and health economics. 
 <!--I study the effectiveness of social policies and the sources of income and health inequality by using causal inference methods. -->
-Much of my work in labor economics analyzes the role of firms in shaping income inequality, which I also study in various international projects where I am PI for Finland or Sweden. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in determining income and health differences over the life cycle.
+Much of my work in labor economics analyzes wage setting and the role of firms and institutions in shaping wage dispersion. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in determining income and health differences over the life cycle.
 </p>
 <!--
 My interests are in the field of labor and health economics. I study the effectiveness of social policies and the sources of inequality in society by using population registers and by developing and adopting causal inference methods. Part of my research studies the role of employers in determining income inequality. In this context, I am part of various international projects where I am PI for Sweden and Finland and that in some cases I co-lead. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in shaping income and health differences over the lifetime.
 -->
 
-<p style="margin-top:0.3cm;">I received my PhD in Economics from Uppsala University in Autumn 2019. I am affiliated to <a href="https://www.ifau.se/en/">IFAU</a> (Institute for Evaluation of Labor Market and Education Policy), <a href="https://www.iza.org/people/affiliates/21993/stefano-lombardi">IZA</a> (Institute of Labor Economics), <a href="https://www.rfberlin.com/">RFBerlin</a> (Rockwool Foundation Berlin), and to <a href="https://ucls.nek.uu.se/about-the-center/">UCLS</a> (Uppsala Center for Labor Studies).</p>
+Many of my projects are international collaborations where I am PI for Finland or Sweden. Since 2023 I have been part of <a href="https://www.oecd.org/en/about/projects/linkeed-200.html">LinkEED v2.0</a>, an OECD Network that promotes the use of linked employer-employee data. As part of LinkEED, I co-lead an academic project on job loss and the green transition and collaborate on several other policy and academic projects.
+
+
+<p style="margin-top:0.3cm;">I received my PhD in Economics from Uppsala University in Autumn 2019. I am affiliated to <a href="https://www.ifau.se/en/">IFAU</a> (Institute for Evaluation of Labor Market and Education Policy), <a href="https://www.iza.org/people/affiliates/21993/stefano-lombardi">IZA</a> (Institute of Labor Economics), <a href="https://www.rfberlin.com/">RFBerlin</a> (Rockwool Foundation Berlin), and to <a href="https://ucls.nek.uu.se/about-the-center/">UCLS</a> (Uppsala Center for Labor Studies).</p> 
 
 <p style="margin-top:0.3cm;">My partner is Cristina Bratu, also an economist. You can find her website <a href="https://cristina-bratu.github.io/">here</a>.</p>
 
