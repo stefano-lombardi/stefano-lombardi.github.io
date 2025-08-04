@@ -30,7 +30,7 @@ Much of my work in labor economics analyzes wage setting and the role of firms a
 My interests are in the field of labor and health economics. I study the effectiveness of social policies and the sources of inequality in society by using population registers and by developing and adopting causal inference methods. Part of my research studies the role of employers in determining income inequality. In this context, I am part of various international projects where I am PI for Sweden and Finland and that in some cases I co-lead. I am also interested in understanding the determinants of socioeconomic inequality by looking at how nature and nurture interact in shaping income and health differences over the lifetime.
 -->
 
-<p style="margin-top:0.3cm;">Many of my projects are international collaborations where I am PI for Finland or Sweden, and since 2023 I have been part of <a href="https://www.oecd.org/en/about/projects/linkeed-200.html">LinkEED v2.0</a>, an OECD Network that promotes the use of linked employer-employee data. <!--As part of LinkEED, I co-lead an academic project on job loss and the green transition and collaborate on several other policy and academic projects.-->
+<p style="margin-top:0.3cm;">Many of my projects are international collaborations where I am PI for Finland or Sweden, and since 2024 I have been part of <a href="https://www.oecd.org/en/about/projects/linkeed-200.html">LinkEED v2.0</a>, an OECD Network that promotes the use of linked employer-employee data. <!--As part of LinkEED, I co-lead an academic project on job loss and the green transition and collaborate on several other policy and academic projects.-->
 </p> 
 
 
