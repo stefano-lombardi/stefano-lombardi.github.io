@@ -200,7 +200,7 @@ Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto
   </p>
 </div>
 
-### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
+### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0) (R & R at <i><b>Nature</b></i>)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -220,7 +220,7 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 </div>
 
 
-### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0)
+### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) (_submitted_)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
@@ -239,7 +239,7 @@ and
 
 
 
-### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0)
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0) (R & R at <i><b>eLife</b></i>)
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
