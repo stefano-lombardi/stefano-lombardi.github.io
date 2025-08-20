@@ -202,7 +202,6 @@ Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto
 
 
 ### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
-(_submitted_)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
@@ -211,7 +210,7 @@ _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 <a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
 Stefano Lombardi,
 and
-<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
+<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a> (_submitted_)
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
@@ -221,7 +220,6 @@ and
 
 
 ### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
-(R & R at <i>Nature</i>)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -232,7 +230,7 @@ Tammy Tan, Hariharan Jayashankar, Junming Guan, Seyed M. Nehzati, Mahdi Mir, Mic
 <!--
 Rosa Cheesman, Zhengming Chen, China Kadoorie Biobank Collaborative Group, Eco de Geus, Erik A Ehli, Abdelrahman G Elnahas, Estonian Biobank Research Team, Finngen Authors, Andrea Ganna, Alexandros Giannelis, Liisa Hakaste, Ailin Falkmo Hansen, Alexandra Havdahl, Caroline Hayward, Jouke-Jan Hottenga, Mikkel Aagaard Houmark, Kristian Hveem, Jaakko Kaprio, Arnulf Langhammer, Antti Latvala, James J Lee, Mikko Lehtovirta, Liming Li, LifeLines Cohort Study, Kuang Lin, Richard Karlsson Linner, Stefano Lombardi, Nicholas G Martin, Matt McGue, Sarah E Medland, Andres Metspalu, Brittany L Mitchell, Guiyan Ni, Ilja M Nolte, Matthew T Oetjens Oetjens, Sven Oskarsson, Teemu Palviainen, Rashmi B Prasad, Anu Reigo, Kadri Reis, Julia Sidorenko, Karri Silventoinen, Harold Snieder, Tiinamaija Tuomi, Bjarni J Vilhjalmsson, Robin G Walters, Emily A Willoughby, Bendik S Winsvold, Eivind Ystrom, Jonathan Flint, Loic Yengo, Peter M Visscher, Augustine Kong, Elliot M Tucker-Drob, Richard Border, David Cesarini, Patrick Turley, Aysu Okbay, Daniel J Benjamin, Alexander Strudwick Young
 -->
-and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
+and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a> (R&R at <i>Nature</i>)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
@@ -243,12 +241,11 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 
 
 ### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0) 
-(R&R at <i>eLife</i>)
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
 and
-<a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a>
+<a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a> (R&R at <i>eLife</i>)
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
