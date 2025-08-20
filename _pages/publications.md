@@ -200,7 +200,28 @@ Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto
   </p>
 </div>
 
-### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0) (R & R at <i><b>Nature</b></i>)
+
+### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
+(_submitted_)
+<!--
+## Firm productivity and the immigrant-native earnings gap<br>
+_**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
+--> 
+<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/">Olof Åslund</a>,
+<a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
+Stefano Lombardi,
+and
+<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
+ 
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+    We study the role of firm productivity in explaining the immigrant-native earnings gap using balance sheet and population-wide employer-employee data. The returns to working in firms with higher persistent productivity are especially high for immigrants, who gain the most from avoiding the least productive firms in which they are strongly over-represented. Immigrant-native skill differences can only partly explain the differential sorting across firms. Taken together, our results suggest group-specific barriers to climbing the productivity ladder. We find that one important barrier operates through manager-worker homophily, which reinforces the unequal access to high-productive firms and differential ability of extracting firm rents.
+  </p>
+</div>
+
+
+### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
+(R & R at <i>Nature</i>)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -220,26 +241,9 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a>
 </div>
 
 
-### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) (_submitted_)
-<!--
-## Firm productivity and the immigrant-native earnings gap<br>
-_**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
---> 
-<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/">Olof Åslund</a>,
-<a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
-Stefano Lombardi,
-and
-<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a>
- 
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
-    We study the role of firm productivity in explaining the immigrant-native earnings gap using balance sheet and population-wide employer-employee data. The returns to working in firms with higher persistent productivity are especially high for immigrants, who gain the most from avoiding the least productive firms in which they are strongly over-represented. Immigrant-native skill differences can only partly explain the differential sorting across firms. Taken together, our results suggest group-specific barriers to climbing the productivity ladder. We find that one important barrier operates through manager-worker homophily, which reinforces the unequal access to high-productive firms and differential ability of extracting firm rents.
-  </p>
-</div>
 
-
-
-### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0) (R & R at <i><b>eLife</b></i>)
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0) 
+(R&R at <i>eLife</i>)
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
