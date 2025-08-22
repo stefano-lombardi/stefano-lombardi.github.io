@@ -240,7 +240,7 @@ and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a> (R&R at <
 
 
 
-### [Heterogenous associations of polygenic indices of 35 traits with mortality](/files/2025_Lahtinen.pdf?dl=0) 
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](https://elifesciences.org/reviewed-preprints/107496) 
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
