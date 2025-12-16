@@ -180,8 +180,19 @@ Working papers
 ===============
 
 
-### [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
-Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
+### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
+Marco Palladino, 
+Antoine Bertheau, 
+Alexander Hijzen, 
+Astrid Kunze, 
+Cesar Barreto, 
+Dogan Gülümser, 
+Marta Lachowska, 
+Anne Sophie Lassen, 
+Stefano Lombardi, 
+Jordy Meekes, 
+Balazs Murakozy, and 
+Oskar Nordström Skans
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
