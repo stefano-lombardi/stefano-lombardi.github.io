@@ -179,16 +179,6 @@ and
 Working papers 
 ===============
 
-### [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
-co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
-  We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employer-employee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lower-paying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.
-  </p>
-</div>
-
-
 
 ### [The Unequal Impact of Firms on the Relative Pay of Women Across Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
 Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Nordström Skans
@@ -198,6 +188,17 @@ Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto
   We use matched employer-employee datasets from the US and Europe to document the contribution of firm-specific pay premiums to the gender hourly wage gap. Our findings are as follows: (1) The impact of firm-specific wage premiums on the gender wage gap —the firm effects gap— varies considerably across the 11 countries we study. It accounts for two-thirds of the gender wage gap in the US and, at most, one-third in Europe. (2) A decomposition of the firm effects gap into sorting (women working in lower-paying firms) and pay-setting (women earning less in similar firms) reveals stark differences across countries. The pay-setting effect explains less than 10 percent of the gender wage gaps in most countries. In countries with a lower degree of wage-setting centralization (Hungary and US) the importance of the pay-setting effect is much larger.
   </p>
 </div>
+
+
+### [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
+co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+  We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employer-employee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lower-paying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.
+  </p>
+</div>
+
 
 
 ### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
