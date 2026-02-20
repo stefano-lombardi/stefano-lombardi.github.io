@@ -210,7 +210,7 @@ _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 <a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
 Stefano Lombardi,
 and
-<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a> (_submitted_)
+<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a> (R&R at <i>Labour Economics</i>)
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
