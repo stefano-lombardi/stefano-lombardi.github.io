@@ -205,6 +205,8 @@ Oskar Nordström Skans (_submitted_)
 </div>
 
 
+
+
 ### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
@@ -221,6 +223,13 @@ and
     We study the role of firm productivity in explaining the immigrant-native earnings gap using balance sheet and population-wide employer-employee data. The returns to working in firms with higher persistent productivity are especially high for immigrants, who gain the most from avoiding the least productive firms in which they are strongly over-represented. Immigrant-native skill differences can only partly explain the differential sorting across firms. Taken together, our results suggest group-specific barriers to climbing the productivity ladder. We find that one important barrier operates through manager-worker homophily, which reinforces the unequal access to high-productive firms and differential ability of extracting firm rents.
   </p>
 </div>
+
+
+
+### Collective Bargaining in Europe (draft available upon request)
+Tuoms Kosonen, Stefano Lombardi, Toni Juuti (co-lead authors), and
+Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanfani, Alice Kügler, Kasperi Kuuskoski, Christoph Müller (R&R at <i>Industrial and Labor Relations Review</i>)
+
 
 
 ### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
@@ -261,12 +270,16 @@ and
 </div>
 
 
-### [The clean energy transition and the cost of job displacement in energy-intensive industries](https://www.oecd.org/en/publications/the-clean-energy-transition-and-the-cost-of-job-displacement-in-energy-intensive-industries_abf614d1-en.html)
-co-lead author with Cesar Barreto and Alexander Hijzen, and with the LinkEED group (see paper) 
+### The clean energy transition and the cost of job displacement in energy-intensive industries (draft available upon request)
+Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and with the LinkEED group (see paper) 
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+The global shift toward low-carbon, environmentally sustainable growth is widely seen as essential for mitigating climate change.1–9 However, little is known about how the resulting economic restructuring will affect workers, although such knowledge is essential for designing effective climate policy and maintaining broad societal support for decarbonization. Existing research shows that job loss generates long-lasting economic scars, but evidence on whether workers displaced from high-emission industries face systematically worse outcomes than other displaced workers remains scarce. We analyze the reallocation costs of job loss in high-carbon emission sectors and in the rest of the economy using harmonized matched employer–employee registers from fifteen economies (N = 757,839,979), from which we construct a sample of workers displaced in mass layoffs matched to comparison workers (N = 16,668,400). Workers displaced from high-emission industries suffer persistently larger income losses than comparable workers displaced from other industries. A detailed subgroup analysis shows that workers in high-emission sectors tend to have characteristics associated with smaller penalties—they are longer-tenured, higher-skilled men of higher socioeconomic status employed at higher-paying firms—yet they are disproportionately employed in rural areas, contracting industries, and large mass-layoff events, all labor market
+conditions that amplify losses. Despite institutional differences, these findings are consistent across countries and suggest climate policy should combine place-based and targeted interventions to mitigate the reallocation costs of decarbonization.
+  <!--
   This paper provides a comprehensive analysis of the costs of job displacement in energy-intensive industries in selected OECD countries. Based on harmonised linked employer-employee data from 14 OECD countries, we estimate the effect of job displacement in three energy-intensive industries, namely energy supply, heavy manufacturing and transport, compared to other industries. We find that workers displaced from the energy supply and heavy manufacturing, experience larger earnings losses compared with workers in non-energy-intensive and transport sectors. Larger earnings losses mainly result from weaker re-employment outcomes in terms of wages and job instability but also challenges with finding another job. They reflect significant differences in the composition of workers and firms in energy supply and heavy manufacturing and the rest of the economy. Displaced workers in these sectors tend to be older, are less skilled and more likely to be previously employed in high-wage firms.
+-->
   </p>
 </div>
 
