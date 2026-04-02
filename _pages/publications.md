@@ -270,7 +270,7 @@ and
 </div>
 
 
-### The clean energy transition and the cost of job displacement in energy-intensive industries (draft available upon request)
+### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
 Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and with the LinkEED group (see paper) 
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
