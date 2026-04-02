@@ -271,7 +271,8 @@ and
 
 
 ### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
-Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and with the LinkEED group (see paper) 
+Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and with Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
+
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
