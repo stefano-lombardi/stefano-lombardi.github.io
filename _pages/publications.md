@@ -226,7 +226,7 @@ and
 
 
 
-### Collective Bargaining in Europe (draft available upon request)
+### Collectively Bargained Wage Floors and Contracted Wage Increases in Six European Countries (draft available upon request)
 Tuoms Kosonen, Stefano Lombardi, Toni Juuti (co-lead authors), and
 Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanfani, Alice Kügler, Kasperi Kuuskoski, Christoph Müller (R&R at <i>Industrial and Labor Relations Review</i>)
 
