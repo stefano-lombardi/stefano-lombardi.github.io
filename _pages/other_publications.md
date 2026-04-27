@@ -14,7 +14,7 @@ Stefano Lombardi, in Berton, F., and Paruolo, P.: "Data-Driven Learning in the E
 Stefano Lombardi, in Berton, F., and Paruolo, P.: "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', Springer (Forthcoming).
 
 
-### [Mortality Inequality in Finland](https://economiaitaliana.org/page/2/)
+### [Optimizing Population Health Through Strategic Use of Health Data](https://economiaitaliana.org/page/2/)
 Vincenzo Atella, Stefano Lombardi, Andrea Ganna
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
