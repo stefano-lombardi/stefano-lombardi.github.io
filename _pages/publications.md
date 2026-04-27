@@ -179,12 +179,27 @@ and
 Working papers 
 ===============
 
+### [Effects of Genetic Propensity for Education on Labor Market and Health Trajectories across the Working Life](/files/2026_Genetics_and_socioeconomic_trajectories.pdf?dl=0)
+Stefano Lombardi, 
+Nurfatima Jandarova, 
+Kristina Zguro (co-lead authors), and
+Jarkko Harju, 
+Aldo Rustichini, 
+Andrea Ganna (_submitted_)
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+    Education is a major source of inequality in income and health. Polygenic indices for educational attainment (EA-PGI) capture both direct and indirect genetic influences on education, but their effects on income and health remain unclear. Using Finnish registry data on 51,056 graduates followed annually since graduation for up to 25 years, we report three findings. First, higher EA-PGI strongly predicts income growth, but only among higher educated people: tertiary-educated graduates at the 90th percentile earn EUR 45,392 (13.1 percent) higher discounted lifetime income than those at the 10th percentile. This effect is not mediated by overall health and is entirely absent for the secondary (high school)-educated workers, who do not benefit from higher EA-PGI levels. Second, EA-PGI does not predict income differences at labor market entry or the quality of the first employer, but rather higher job-to-job mobility toward higher-quality firms that drives the long-run income divergence. Third, controlling for parental EA-PGI in 12,871 parent-offspring trios reduces the discounted lifetime income gap by 71 percent, and the effect of paternal (but not maternal) EA-PGI on offspring income exceeds that of the offspring's own EA-PGI. These findings suggest that genetic factors associated with educational attainment predict income trajectories primarily through faster and more frequent changes to higher-paying employers. However, much of this association reflects indirect paternal genetic effects, consistent with enduring paternal patterns of intergenerational job and income transmission.
+  </p>
+</div>
+
+
 
 ### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
 Marco Palladino, 
 Antoine Bertheau, 
 Alexander Hijzen, 
-Astrid Kunze, 
+Astrid Kunze (co-lead authors), and
 Cesar Barreto, 
 Dogan Gülümser, 
 Marta Lachowska, 
@@ -196,7 +211,6 @@ Oskar Nordström Skans (_submitted_)
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://cepr.org/voxeu/columns/gender-wage-gap-and-what-firms-have-do-it">VoxEU.org</a>.</p>
-
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
@@ -271,7 +285,7 @@ and
 
 
 ### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
-Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and with Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
+Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
 
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
