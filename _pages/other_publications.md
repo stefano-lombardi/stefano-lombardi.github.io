@@ -37,8 +37,8 @@ Vikström, J., S. Lombardi, O. N. Skans (2018), IFAU rapport 2018:13 (in Swedish
 Bratu, C., S. Lombardi, M. Rodrigues, G. Santangelo, and A. Shaleva (2014), European Commission, DG Joint Research Center and DG Employment policy report.
 
 
-### Chapter 8: Risk Assessment
+### [Chapter 8: Risk Assessment](https://api.pageplace.de/preview/DT0400.9781000633177_A43165557/preview-9781000633177_A43165557.pdf)
 
-Lombardi, S. and M. Florio (2014), in Florio, M.: "Applied Welfare Economics: Cost-Benefit Analysis of Projects and Policies”, Routledge Advanced Texts in Economics and Finance, pg. 222-262.
+Lombardi, S. and M. Florio (2014), in Florio, M.: "Applied Welfare Economics: Cost-Benefit Analysis of Projects and Policies” (2nd ed., 2026), Routledge Advanced Texts in Economics and Finance, pg. 222-262.
 
 
