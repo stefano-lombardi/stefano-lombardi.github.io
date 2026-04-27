@@ -23,6 +23,7 @@ Vincenzo Atella, Stefano Lombardi, Andrea Ganna
 
 
 ### [Firm productivity and income disparities between immigrants and natives](https://www.ifau.se/Forskning/Publikationer/Rapporter/20212/foretagens-produktivitet-och-inkomstskillnader-mellan-invandrade-och-infodda/)
+Bratu, C., Lombardi, S., Thoresson, A., and Olof Åslund
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">
   <i><b>IFAU rapport 2021:22 (in Swedish)
