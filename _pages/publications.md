@@ -348,6 +348,12 @@ with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Ba
 with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 -->
 
+
+### Trends in Fertility Rates in High-Income Countries over the 20th Century
+
+Martha Bailey, Libertad González, Stefano Lombardi, Elena Meroni, Maarit Olkkola, and Esmée Zwiers
+
+
 ### The economic consequences of tax inheritance: evidence from a Norwegian reform
 
 Stefano Lombardi, Simen Markussen, Tuuli Paukkeri, Terhi Ravaska, and Knut Røed
@@ -383,7 +389,6 @@ Ongoing projects
 </p>
 
 <p style="margin-top:0.3cm;">2022-: Labor Market integration in changing times (<em>Principal Investigator</em>: Olof Åslund).
-
 </p>
 
 
