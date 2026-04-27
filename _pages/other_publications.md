@@ -15,11 +15,7 @@ Stefano Lombardi, in Berton, F., and Paruolo, P.: "Data-Driven Learning in the E
 
 
 ### [Optimizing Population Health Through Strategic Use of Health Data](https://economiaitaliana.org/page/2/)
-Vincenzo Atella, Stefano Lombardi, Andrea Ganna
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>Economia Italiana</b></i>, 2025, 2
-</p>
+Vincenzo Atella, Stefano Lombardi, Andrea Ganna, <i>Economia Italiana</i>, 2025, 2
 
 
 ### [Firm productivity and income disparities between immigrants and natives](https://www.ifau.se/Forskning/Publikationer/Rapporter/20212/foretagens-produktivitet-och-inkomstskillnader-mellan-invandrade-och-infodda/)
