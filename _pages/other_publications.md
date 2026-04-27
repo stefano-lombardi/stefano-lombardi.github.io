@@ -23,38 +23,22 @@ Vincenzo Atella, Stefano Lombardi, Andrea Ganna
 
 
 ### [Firm productivity and income disparities between immigrants and natives](https://www.ifau.se/Forskning/Publikationer/Rapporter/20212/foretagens-produktivitet-och-inkomstskillnader-mellan-invandrade-och-infodda/)
-Bratu, C., Lombardi, S., Thoresson, A., and Olof Åslund
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>IFAU rapport 2021:22 (in Swedish)
-</p>
+Bratu, C., Lombardi, S., Thoresson, A., and Olof Åslund (2021), IFAU rapport 2021:22 (in Swedish)
 
 
 ### [The employment service’s monitoring, sanctions and the search behavior of the unemployed](https://www.ifau.se/Forskning/Publikationer/Rapporter/2019/arbetsformedlingens-kontrollarbete-sanktioner-och-de-arbetslosas-sokbeteende/)
 
-Lombardi, S., and Vikström, J.
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>IFAU rapport 2019:23 (in Swedish)
-</p>
+Lombardi, S., and Vikström, J. (2019), IFAU rapport 2019:23 (in Swedish)
 
 
 ### [How do employment support and wage subsidies affect the hiring companies?](https://www.ifau.se/Forskning/Publikationer/Rapporter/2018/hur-paverkar-anstallningsstod-och-nystartsjobb-de-anstallande-foretagen/)
 
-Vikström, J., S. Lombardi, O. N. Skans
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>IFAU rapport 2018:13 (in Swedish)
-</p>
+Vikström, J., S. Lombardi, O. N. Skans (2018), IFAU rapport 2018:13 (in Swedish)
 
 
 ### [Knowledge gaps in evaluating labour market and social inclusion policies](https://publications.jrc.ec.europa.eu/repository/handle/JRC93543)
 
-Bratu, C., S. Lombardi, M. Rodrigues, G. Santangelo, and A. Shaleva
-
-<p style="margin-top:0.3cm; margin-bottom:0.3cm;">
-  <i><b>European Commission, DG Joint Research Center and DG Employment
-</p>
+Bratu, C., S. Lombardi, M. Rodrigues, G. Santangelo, and A. Shaleva (2014), European Commission, DG Joint Research Center and DG Employment policy report.
 
 
 ### Chapter 8: Risk Assessment
