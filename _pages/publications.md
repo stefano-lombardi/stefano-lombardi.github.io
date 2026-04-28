@@ -253,7 +253,7 @@ Nurfatima Jandarova,
 Kristina Zguro (co-lead authors), and
 Jarkko Harju, 
 Aldo Rustichini, 
-Andrea Ganna (_submitted_)
+Andrea Ganna <!--(_submitted_)-->
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
