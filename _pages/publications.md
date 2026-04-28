@@ -179,21 +179,6 @@ and
 Working papers 
 ===============
 
-### [Effects of Genetic Propensity for Education on Labor Market and Health Trajectories across the Working Life](/files/2026_Genetics_and_socioeconomic_trajectories.pdf?dl=0)
-Stefano Lombardi, 
-Nurfatima Jandarova, 
-Kristina Zguro (co-lead authors), and
-Jarkko Harju, 
-Aldo Rustichini, 
-Andrea Ganna (_submitted_)
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
-    Education is a major source of inequality in income and health. Polygenic indices for educational attainment (EA-PGI) capture both direct and indirect genetic influences on education, but their effects on income and health remain unclear. Using Finnish registry data on 51,056 graduates followed annually since graduation for up to 25 years, we report three findings. First, higher EA-PGI strongly predicts income growth, but only among higher educated people: tertiary-educated graduates at the 90th percentile earn EUR 45,392 (13.1 percent) higher discounted lifetime income than those at the 10th percentile. This effect is not mediated by overall health and is entirely absent for the secondary (high school)-educated workers, who do not benefit from higher EA-PGI levels. Second, EA-PGI does not predict income differences at labor market entry or the quality of the first employer, but rather higher job-to-job mobility toward higher-quality firms that drives the long-run income divergence. Third, controlling for parental EA-PGI in 12,871 parent-offspring trios reduces the discounted lifetime income gap by 71 percent, and the effect of paternal (but not maternal) EA-PGI on offspring income exceeds that of the offspring's own EA-PGI. These findings suggest that genetic factors associated with educational attainment predict income trajectories primarily through faster and more frequent changes to higher-paying employers. However, much of this association reflects indirect paternal genetic effects, consistent with enduring paternal patterns of intergenerational job and income transmission.
-  </p>
-</div>
-
-
 
 ### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
 Marco Palladino, 
@@ -246,6 +231,38 @@ Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanf
 
 
 
+### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
+Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
+
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+The global shift toward low-carbon, environmentally sustainable growth is widely seen as essential for mitigating climate change. However, little is known about how the resulting economic restructuring will affect workers, although such knowledge is essential for designing effective climate policy and maintaining broad societal support for decarbonization. Existing research shows that job loss generates long-lasting economic scars, but evidence on whether workers displaced from high-emission industries face systematically worse outcomes than other displaced workers remains scarce. We analyze the reallocation costs of job loss in high-carbon emission sectors and in the rest of the economy using harmonized matched employer–employee registers from fifteen economies (N = 757,839,979), from which we construct a sample of workers displaced in mass layoffs matched to comparison workers (N = 16,668,400). Workers displaced from high-emission industries suffer persistently larger income losses than comparable workers displaced from other industries. A detailed subgroup analysis shows that workers in high-emission sectors tend to have characteristics associated with smaller penalties—they are longer-tenured, higher-skilled men of higher socioeconomic status employed at higher-paying firms—yet they are disproportionately employed in rural areas, contracting industries, and large mass-layoff events, all labor market
+conditions that amplify losses. Despite institutional differences, these findings are consistent across countries and suggest climate policy should combine place-based and targeted interventions to mitigate the reallocation costs of decarbonization.
+  <!--
+  This paper provides a comprehensive analysis of the costs of job displacement in energy-intensive industries in selected OECD countries. Based on harmonised linked employer-employee data from 14 OECD countries, we estimate the effect of job displacement in three energy-intensive industries, namely energy supply, heavy manufacturing and transport, compared to other industries. We find that workers displaced from the energy supply and heavy manufacturing, experience larger earnings losses compared with workers in non-energy-intensive and transport sectors. Larger earnings losses mainly result from weaker re-employment outcomes in terms of wages and job instability but also challenges with finding another job. They reflect significant differences in the composition of workers and firms in energy supply and heavy manufacturing and the rest of the economy. Displaced workers in these sectors tend to be older, are less skilled and more likely to be previously employed in high-wage firms.
+-->
+  </p>
+</div>
+
+
+
+### [Effects of Genetic Propensity for Education on Labor Market and Health Trajectories across the Working Life](https://arxiv.org/abs/2604.24336)
+Stefano Lombardi, 
+Nurfatima Jandarova, 
+Kristina Zguro (co-lead authors), and
+Jarkko Harju, 
+Aldo Rustichini, 
+Andrea Ganna (_submitted_)
+
+<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
+  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
+    Education is a major source of inequality in income and health. Polygenic indices for educational attainment (EA-PGI) capture both direct and indirect genetic influences on education, but their effects on income and health remain unclear. Using Finnish registry data on 51,056 graduates followed annually since graduation for up to 25 years, we report three findings. First, higher EA-PGI strongly predicts income growth, but only among higher educated people: tertiary-educated graduates at the 90th percentile earn EUR 45,392 (13.1 percent) higher discounted lifetime income than those at the 10th percentile. This effect is not mediated by overall health and is entirely absent for the secondary (high school)-educated workers, who do not benefit from higher EA-PGI levels. Second, EA-PGI does not predict income differences at labor market entry or the quality of the first employer, but rather higher job-to-job mobility toward higher-quality firms that drives the long-run income divergence. Third, controlling for parental EA-PGI in 12,871 parent-offspring trios reduces the discounted lifetime income gap by 71 percent, and the effect of paternal (but not maternal) EA-PGI on offspring income exceeds that of the offspring's own EA-PGI. These findings suggest that genetic factors associated with educational attainment predict income trajectories primarily through faster and more frequent changes to higher-paying employers. However, much of this association reflects indirect paternal genetic effects, consistent with enduring paternal patterns of intergenerational job and income transmission.
+  </p>
+</div>
+
+
+
 ### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
@@ -280,21 +297,6 @@ and
     Data consist of Finnish adults from population-representative genetically informed epidemiological surveys linked to administrative registers (N: 40097, 5948 deaths). Within-sibship analysis was complemented with dizygotic twins from Finnish twin study cohorts (N: 10174, 2116 deaths). We estimated Cox proportional hazards models with mortality follow up 1995–2019.
     The PGIs most strongly predictive of all-cause mortality were ever smoking, self-rated health, body mass index, educational attainment, depressive symptoms, and alcohol drinks per week. Within-sibship estimates were approximately consistent with the population analysis. The investigated PGIs were typically more predictive for external than for natural causes of death. PGIs were more strongly associated with death occurring at younger ages, while among those who survived to age 80, the PGI–mortality associations were negligible.
     In conclusion the PGIs related to the best-established mortality risk phenotypes had the strongest associations with mortality. They offer moderate additional prediction even when mutually adjusting with their phenotype. Within-sibship analysis indicated no evidence for inflation of PGI-mortality associations by population phenomena.
-  </p>
-</div>
-
-
-### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
-Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
-
-
-<div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
-  <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
-The global shift toward low-carbon, environmentally sustainable growth is widely seen as essential for mitigating climate change. However, little is known about how the resulting economic restructuring will affect workers, although such knowledge is essential for designing effective climate policy and maintaining broad societal support for decarbonization. Existing research shows that job loss generates long-lasting economic scars, but evidence on whether workers displaced from high-emission industries face systematically worse outcomes than other displaced workers remains scarce. We analyze the reallocation costs of job loss in high-carbon emission sectors and in the rest of the economy using harmonized matched employer–employee registers from fifteen economies (N = 757,839,979), from which we construct a sample of workers displaced in mass layoffs matched to comparison workers (N = 16,668,400). Workers displaced from high-emission industries suffer persistently larger income losses than comparable workers displaced from other industries. A detailed subgroup analysis shows that workers in high-emission sectors tend to have characteristics associated with smaller penalties—they are longer-tenured, higher-skilled men of higher socioeconomic status employed at higher-paying firms—yet they are disproportionately employed in rural areas, contracting industries, and large mass-layoff events, all labor market
-conditions that amplify losses. Despite institutional differences, these findings are consistent across countries and suggest climate policy should combine place-based and targeted interventions to mitigate the reallocation costs of decarbonization.
-  <!--
-  This paper provides a comprehensive analysis of the costs of job displacement in energy-intensive industries in selected OECD countries. Based on harmonised linked employer-employee data from 14 OECD countries, we estimate the effect of job displacement in three energy-intensive industries, namely energy supply, heavy manufacturing and transport, compared to other industries. We find that workers displaced from the energy supply and heavy manufacturing, experience larger earnings losses compared with workers in non-energy-intensive and transport sectors. Larger earnings losses mainly result from weaker re-employment outcomes in terms of wages and job instability but also challenges with finding another job. They reflect significant differences in the composition of workers and firms in energy supply and heavy manufacturing and the rest of the economy. Displaced workers in these sectors tend to be older, are less skilled and more likely to be previously employed in high-wage firms.
--->
   </p>
 </div>
 
