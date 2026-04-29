@@ -363,6 +363,11 @@ with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 -->
 
 
+### Mortality inequality in the US and across Europe
+
+led by Hannes Schwandt and Janet Curie (co-PI for Finland with Kristiina Huttunen)
+
+
 ### Trends in Fertility Rates in High-Income Countries over the 20th Century
 
 Martha Bailey, Libertad González, Stefano Lombardi, Elena Meroni, Maarit Olkkola, and Esmée Zwiers
