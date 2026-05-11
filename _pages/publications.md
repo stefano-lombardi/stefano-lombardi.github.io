@@ -364,15 +364,19 @@ with Marco Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Ba
 with Olof Åslund, Cristina Bratu, Oskar Nordström Skans, and Anna Thoresson
 -->
 
+### The Consequences of Labor Demand Shocks across Countries
 
-### Mortality inequality in the US and across Europe
-
-led by Hannes Schwandt and Janet Curie (co-PI for Finland with Kristiina Huttunen)
+led by Stefano Lombardi, Antoine Bertheau, Raffaele Saggio, and Oona Tuominen, and with Edoardo Acabbi, Andreas Gulyas, Marco Palladino, Tobias Renkin, and Salvatore Lattanzio 
 
 
 ### Trends in Fertility Rates in High-Income Countries over the 20th Century
 
 Martha Bailey, Libertad González, Stefano Lombardi, Elena Meroni, Maarit Olkkola, and Esmée Zwiers
+
+
+### Mortality inequality in the US and across Europe
+
+led by Hannes Schwandt and Janet Curie (co-PI for Finland with Kristiina Huttunen)
 
 
 ### The economic consequences of tax inheritance: evidence from a Norwegian reform
