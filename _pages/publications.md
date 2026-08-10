@@ -376,7 +376,7 @@ Martha Bailey, Libertad González, Stefano Lombardi, Elena Meroni, Maarit Olkkol
 
 ### Mortality inequality in the US and across Europe
 
-led by Hannes Schwandt and Janet Curie (I am co-PI for Finland with Kristiina Huttunen)
+led by Hannes Schwandt and Janet Currie (I am co-PI for Finland with Kristiina Huttunen)
 
 
 ### The economic consequences of tax inheritance: evidence from a Norwegian reform
