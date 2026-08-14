@@ -274,7 +274,7 @@ Tammy Tan, Hariharan Jayashankar, Junming Guan, Seyed M. Nehzati, Mahdi Mir, Mic
 <!--
 Rosa Cheesman, Zhengming Chen, China Kadoorie Biobank Collaborative Group, Eco de Geus, Erik A Ehli, Abdelrahman G Elnahas, Estonian Biobank Research Team, Finngen Authors, Andrea Ganna, Alexandros Giannelis, Liisa Hakaste, Ailin Falkmo Hansen, Alexandra Havdahl, Caroline Hayward, Jouke-Jan Hottenga, Mikkel Aagaard Houmark, Kristian Hveem, Jaakko Kaprio, Arnulf Langhammer, Antti Latvala, James J Lee, Mikko Lehtovirta, Liming Li, LifeLines Cohort Study, Kuang Lin, Richard Karlsson Linner, Stefano Lombardi, Nicholas G Martin, Matt McGue, Sarah E Medland, Andres Metspalu, Brittany L Mitchell, Guiyan Ni, Ilja M Nolte, Matthew T Oetjens Oetjens, Sven Oskarsson, Teemu Palviainen, Rashmi B Prasad, Anu Reigo, Kadri Reis, Julia Sidorenko, Karri Silventoinen, Harold Snieder, Tiinamaija Tuomi, Bjarni J Vilhjalmsson, Robin G Walters, Emily A Willoughby, Bendik S Winsvold, Eivind Ystrom, Jonathan Flint, Loic Yengo, Peter M Visscher, Augustine Kong, Elliot M Tucker-Drob, Richard Border, David Cesarini, Patrick Turley, Aysu Okbay, Daniel J Benjamin, Alexander Strudwick Young
 -->
-and <a href="https://alextisyoung.github.io/">Alex Strudwick Young</a> (R&R at <i>Nature</i>)
+and <a href="https://alextisyoung.github.io/">Alexander Strudwick Young</a> (R&R at <i>Nature</i>)
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
