@@ -14,7 +14,7 @@ Lombardi, S., (2026), in Berton, F., and Paruolo, P. (eds.), "Data-Driven Learni
 Lombardi, S., (2026), in Berton, F., and Paruolo, P. (eds.), "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', pp. 377–391. Springer, Cham.
 
 ### [Optimizing Population Health Through Strategic Use of Health Data](https://economiaitaliana.org/page/2/)
-Vincenzo Atella, Stefano Lombardi, Andrea Ganna, <i>Economia Italiana</i>, 2025, 2
+Atella, V., Lombardi, S., Ganna, A. (2025), <i>Economia Italiana</i>, 2
 
 
 ### [Firm productivity and income disparities between immigrants and natives](https://www.ifau.se/Forskning/Publikationer/Rapporter/20212/foretagens-produktivitet-och-inkomstskillnader-mellan-invandrade-och-infodda/)
