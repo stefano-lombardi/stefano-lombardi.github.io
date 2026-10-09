@@ -7,12 +7,11 @@ author_profile: true
 
 <!-- ## Ohter publications  -->
 
-### Accessing Administrative Data for Research: Lessons from Finland
-Stefano Lombardi, in Berton, F., and Paruolo, P.: "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', Springer (Forthcoming).
+### [Accessing Administrative Data for Research: Lessons from Finland](https://link.springer.com/book/10.1007/978-3-031-99032-8)
+Lombardi, S., (2026), in Berton, F., and Paruolo, P. (eds.), "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', pp. 137–153. Springer, Cham.
 
-### Accessing Administrative Data for Research: Lessons from Sweden
-Stefano Lombardi, in Berton, F., and Paruolo, P.: "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', Springer (Forthcoming).
-
+### [Accessing Administrative Data for Research: Lessons from Sweden](https://link.springer.com/book/10.1007/978-3-031-99032-8)
+Lombardi, S., (2026), in Berton, F., and Paruolo, P. (eds.), "Data-Driven Learning in the EU: From Administrative Sources to Public Value'', pp. 377–391. Springer, Cham.
 
 ### [Optimizing Population Health Through Strategic Use of Health Data](https://economiaitaliana.org/page/2/)
 Vincenzo Atella, Stefano Lombardi, Andrea Ganna, <i>Economia Italiana</i>, 2025, 2
