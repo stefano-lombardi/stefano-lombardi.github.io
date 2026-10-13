@@ -231,7 +231,7 @@ Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanf
 
 
 
-### Mass layoffs across 15 economies reveal unequal reallocation costs of the green transition (draft available upon request)
+### Unequal reallocation costs of the green transition for displaced workers in 15 high-income economies (draft available upon request)
 Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
 
 
