@@ -192,7 +192,7 @@ Anne Sophie Lassen,
 Stefano Lombardi, 
 Jordy Meekes, 
 Balazs Murakozy, and 
-Oskar Nordström Skans (_submitted_)
+Oskar Nordström Skans (R&R at <i>Americal Economic Journal: Applied Economics</i>)
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://cepr.org/voxeu/columns/gender-wage-gap-and-what-firms-have-do-it">VoxEU.org</a>.</p>
@@ -227,7 +227,7 @@ and
 
 ### Collectively Bargained Wage Floors and Contracted Wage Increases in Six European Countries (draft available upon request)
 Tuoms Kosonen, Stefano Lombardi (co-lead authors), and Toni Juuti,
-Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanfani, Alice Kügler, Kasperi Kuuskoski, Christoph Müller (R&R at <i>Industrial and Labor Relations Review</i>)
+Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanfani, Alice Kügler, Kasperi Kuuskoski, Christoph Müller 
 
 
 
