@@ -192,7 +192,7 @@ Anne Sophie Lassen,
 Stefano Lombardi, 
 Jordy Meekes, 
 Balazs Murakozy, and 
-Oskar Nordström Skans (R&R at <i>Americal Economic Journal: Applied Economics</i>)
+Oskar Nordström Skans (R&R at <i>American Economic Journal: Applied Economics</i>)
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://cepr.org/voxeu/columns/gender-wage-gap-and-what-firms-have-do-it">VoxEU.org</a>.</p>
