@@ -176,12 +176,16 @@ and
 
 
 
+
+
+
+
+
 Working papers 
 ===============
 
 
-### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0) 
-<span style="font-weight: normal;">(R&R at <i>American Economic Journal: Applied Economics</i>)</span>
+### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0) <span style="font-weight: normal;">(R&R at <i>American Economic Journal: Applied Economics</i>)</span>
 Marco Palladino, 
 Antoine Bertheau, 
 Alexander Hijzen, 
@@ -207,8 +211,7 @@ Oskar Nordström Skans
 
 
 
-### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
-<span style="font-weight: normal;">(R&R at <i>Labour Economics</i>)</span>
+### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) <span style="font-weight: normal;">(R&R at <i>Labour Economics</i>)</span>
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
@@ -227,8 +230,7 @@ and
 
 
 
-### Collectively Bargained Wage Floors and Contracted Wage Increases in Six European Countries 
-<span style="font-weight: normal;">(draft available upon request)</span>
+### Collectively Bargained Wage Floors and Contracted Wage Increases in Six European Countries <span style="font-weight: normal;">(draft available upon request)</span>
 Tuoms Kosonen, Stefano Lombardi (co-lead authors), and Toni Juuti,
 Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanfani, Alice Kügler, Kasperi Kuuskoski, Christoph Müller 
 
@@ -266,8 +268,7 @@ Andrea Ganna <!--(_submitted_)-->
 
 
 
-### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
-<span style="font-weight: normal;">(R&R at <i>Nature</i>)</span>
+### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0) <span style="font-weight: normal;">(R&R at <i>Nature</i>)</span>
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -288,8 +289,7 @@ and <a href="https://alextisyoung.github.io/">Alexander Strudwick Young</a>
 
 
 
-### [Heterogenous associations of polygenic indices of 35 traits with mortality](https://elifesciences.org/reviewed-preprints/107496) 
-<span style="font-weight: normal;">(R&R at <i>eLife</i>)</span>
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](https://elifesciences.org/reviewed-preprints/107496) <span style="font-weight: normal;">(R&R at <i>eLife</i>)</span>
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
