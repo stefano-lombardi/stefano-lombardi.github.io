@@ -180,7 +180,7 @@ Working papers
 ===============
 
 
-### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0)
+### [Firms and the Gender Wage Gap: A Comparison of Eleven Countries](/files/2025_vatt_wp181_GWG.pdf?dl=0) (R&R at <i>American Economic Journal: Applied Economics</i>)
 Marco Palladino, 
 Antoine Bertheau, 
 Alexander Hijzen, 
@@ -192,7 +192,7 @@ Anne Sophie Lassen,
 Stefano Lombardi, 
 Jordy Meekes, 
 Balazs Murakozy, and 
-Oskar Nordström Skans (R&R at <i>American Economic Journal: Applied Economics</i>)
+Oskar Nordström Skans 
 
 <p style="margin-top:0.3cm; margin-bottom:0.3cm;">Media coverage: 
 <a href="https://cepr.org/voxeu/columns/gender-wage-gap-and-what-firms-have-do-it">VoxEU.org</a>.</p>
@@ -206,7 +206,7 @@ Oskar Nordström Skans (R&R at <i>American Economic Journal: Applied Economics</
 
 
 
-### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) 
+### [Firm productivity, manager origin, and immigrant-native earnings disparities](/files/2025_firm_productivity.pdf?dl=0) (R&R at <i>Labour Economics</i>)
 <!--
 ## Firm productivity and the immigrant-native earnings gap<br>
 _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
@@ -215,7 +215,7 @@ _**[Email me](mailto:stefano.lombardi@vatt.fi) for latest version**_
 <a href="https://cristina-bratu.github.io/">Cristina Bratu</a>,
 Stefano Lombardi,
 and
-<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a> (R&R at <i>Labour Economics</i>)
+<a href="https://sites.google.com/site/abthoresson/">Anna Thoresson</a> 
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
@@ -231,7 +231,7 @@ Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanf
 
 
 
-### Unequal reallocation costs of the green transition for displaced workers in 15 high-income economies (draft available upon request)
+### Unequal reallocation costs of the green transition for 7.6 million displaced workers in 15 high-income economies <span style="font-weight: normal;">(draft available upon request)</span>
 Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
 
 
@@ -263,7 +263,7 @@ Andrea Ganna <!--(_submitted_)-->
 
 
 
-### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0)
+### [Family-GWAS reveals effects of environment and mating on genetic associations](/files/2024_Tan_et_al.pdf?dl=0) (R&R at <i>Nature</i>)
 <!--
 with Tan T., Jayashankar H., Guan J., Nehzati S. M., Mir M., 
 Bennett M., Agerbo E., Ahlskog R., de Andrade Anapaz V. P., Asvold B. O., 
@@ -274,7 +274,7 @@ Tammy Tan, Hariharan Jayashankar, Junming Guan, Seyed M. Nehzati, Mahdi Mir, Mic
 <!--
 Rosa Cheesman, Zhengming Chen, China Kadoorie Biobank Collaborative Group, Eco de Geus, Erik A Ehli, Abdelrahman G Elnahas, Estonian Biobank Research Team, Finngen Authors, Andrea Ganna, Alexandros Giannelis, Liisa Hakaste, Ailin Falkmo Hansen, Alexandra Havdahl, Caroline Hayward, Jouke-Jan Hottenga, Mikkel Aagaard Houmark, Kristian Hveem, Jaakko Kaprio, Arnulf Langhammer, Antti Latvala, James J Lee, Mikko Lehtovirta, Liming Li, LifeLines Cohort Study, Kuang Lin, Richard Karlsson Linner, Stefano Lombardi, Nicholas G Martin, Matt McGue, Sarah E Medland, Andres Metspalu, Brittany L Mitchell, Guiyan Ni, Ilja M Nolte, Matthew T Oetjens Oetjens, Sven Oskarsson, Teemu Palviainen, Rashmi B Prasad, Anu Reigo, Kadri Reis, Julia Sidorenko, Karri Silventoinen, Harold Snieder, Tiinamaija Tuomi, Bjarni J Vilhjalmsson, Robin G Walters, Emily A Willoughby, Bendik S Winsvold, Eivind Ystrom, Jonathan Flint, Loic Yengo, Peter M Visscher, Augustine Kong, Elliot M Tucker-Drob, Richard Border, David Cesarini, Patrick Turley, Aysu Okbay, Daniel J Benjamin, Alexander Strudwick Young
 -->
-and <a href="https://alextisyoung.github.io/">Alexander Strudwick Young</a> (R&R at <i>Nature</i>)
+and <a href="https://alextisyoung.github.io/">Alexander Strudwick Young</a> 
 
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
@@ -284,12 +284,12 @@ and <a href="https://alextisyoung.github.io/">Alexander Strudwick Young</a> (R&R
 
 
 
-### [Heterogenous associations of polygenic indices of 35 traits with mortality](https://elifesciences.org/reviewed-preprints/107496) 
+### [Heterogenous associations of polygenic indices of 35 traits with mortality](https://elifesciences.org/reviewed-preprints/107496) (R&R at <i>eLife</i>)
  
 <a href="https://researchportal.helsinki.fi/en/persons/hannu-lahtinen/">Hannu Lahtinen</a>,
 Jaakko Kaprio, Andrea Ganna, Kaarina Korhonen, Stefano Lombardi, Karri Silventoinen, 
 and
-<a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a> (R&R at <i>eLife</i>)
+<a href="https://researchportal.helsinki.fi/en/persons/pekka-martikainen/">Pekka Martikainen</a> 
  
 <div class="read-more" data-collapsed-height="2em" style="text-align: justify"> <!-- "0em" to get it compressed -->
   <p class="read-more_text-wrapper" style="margin-top:0.3cm;">
