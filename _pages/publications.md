@@ -236,7 +236,7 @@ Antoine Bertheau, Manudeep Bhuller, Petri Böckerman, Ana Cardoso, Bernardo Fanf
 
 
 
-### Unequal reallocation costs of the green transition for 7.6 million displaced workers in 15 high-income economies <span style="font-weight: normal;">(draft available upon request)</span>
+###  Unequal reallocation costs of the green transition for displaced workers in 15 high-income economies <span style="font-weight: normal;">(draft available upon request)</span>
 Stefano Lombardi, Cesar Barreto, Alexander Hijzen, Oskar Skans (co-lead authors), and Patrick Bennett, Antoine Bertheau, Winnie Chan, Domenico Depalo, Jonas Fluchtmann, Andrei Gorshkov, Jonathan Hambur, Benjamin Lochner, Jordy Meekes, Tahsin Mehdi, Balázs Muraközy, Gulnara Nolan, Kjell Salvanes, Rune Vejlin
 
 
